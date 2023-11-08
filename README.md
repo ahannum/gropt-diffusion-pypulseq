@@ -1,5 +1,5 @@
 # gropt-diffusion-pypulseq
-Pypulseq Implementation of Diffusion Waveforms created with the MRI Gradient Optimization Toolbox
+Pypulseq Implementation of PNS-constrianed Diffusion Waveforms created with the MRI Gradient Optimization Toolbox
 
 # Overview
 These are the tools used to generate simulations and waveforms associated with this ISMRM 2024 abstract submission: 
