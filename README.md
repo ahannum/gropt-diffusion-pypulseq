@@ -11,6 +11,9 @@ This repository will continue to be updated with code to generate and assess wav
 # Resources
 This toolbox builds upon and utilizes tools from the following open-source projects:
 
-**GrOpt**: Loecher M, Middione MJ, Ennis DB. A gradient optimization toolbox for general purpose time-optimal MRI gradient waveform design. Magn Reson Med. 2020 Dec;84(6):3234-3245.
+**GrOpt**: Loecher M, Middione MJ, Ennis DB. A gradient optimization toolbox for general purpose time-optimal MRI gradient waveform design. Magn Reson Med. 2020 Dec;84(6):3234-3245. [https://github.com/mloecher/gropt]
 
-**PyPulseq**: Layton KJ, Kroboth S, Jia F, et al. Pulseq: A rapid and hardware-independent pulse sequence prototyping framework. Magn Reson Med. 2017;77(4):1544-1552.
+**Pulseq**: Layton KJ, Kroboth S, Jia F, et al. Pulseq: A rapid and hardware-independent pulse sequence prototyping framework. Magn Reson Med. 2017;77(4):1544-1552. [https://pulseq.github.io/]
+
+**Pypulseq**: [https://github.com/imr-framework/pypulseq] 
+
