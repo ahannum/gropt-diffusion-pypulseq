@@ -3,6 +3,7 @@ Pypulseq Implementation of PNS-constrianed Diffusion Waveforms created with the 
 
 # Overview
 These are the tools used to generate simulations and waveforms associated with this ISMRM 2024 abstract submission: 
+
 Hannum AJ, Loecher M, Setsompop K, Ennis DB. Mitigation of Peripheral-Nerve Stimulation with Arbitrary Gradient Waveform Design for Diffusion-Weighted MRI.
 
 This repository will continue to be updated with code to generate and assess waveforms using the MRI Gradient Optimization Toolbox and convert to Pulseq files for capabilities of generating waveforms on a scanner. 
