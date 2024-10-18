@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 2016 936">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: square;
+        stroke-width: 1.2px;
+      }
+
+      .cls-2, .cls-8, .cls-9, .cls-10, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: #e41a1c;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-11, .cls-7 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 7px;
+      }
+
+      .cls-12 {
+        opacity: .8;
+        stroke: #ccc;
+      }
+
+      .cls-12, .cls-8, .cls-9, .cls-10 {
+        isolation: isolate;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #eaeaf2;
+      }
+
+      .cls-8 {
+        fill: red;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        opacity: .1;
+      }
+
+      .cls-9 {
+        fill: green;
+      }
+
+      .cls-4, .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-61);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-67);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-68);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-60);
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-65);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-62);
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-64);
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-66);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-63);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-76);
+      }
+
+      .cls-34 {
+        clip-path: url(#clippath-78);
+      }
+
+      .cls-35 {
+        clip-path: url(#clippath-75);
+      }
+
+      .cls-36 {
+        clip-path: url(#clippath-79);
+      }
+
+      .cls-37 {
+        clip-path: url(#clippath-50);
+      }
+
+      .cls-38 {
+        clip-path: url(#clippath-55);
+      }
+
+      .cls-39 {
+        clip-path: url(#clippath-52);
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath-57);
+      }
+
+      .cls-41 {
+        clip-path: url(#clippath-54);
+      }
+
+      .cls-42 {
+        clip-path: url(#clippath-56);
+      }
+
+      .cls-43 {
+        clip-path: url(#clippath-53);
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-70);
+      }
+
+      .cls-45 {
+        clip-path: url(#clippath-77);
+      }
+
+      .cls-46 {
+        clip-path: url(#clippath-74);
+      }
+
+      .cls-47 {
+        clip-path: url(#clippath-71);
+      }
+
+      .cls-48 {
+        clip-path: url(#clippath-73);
+      }
+
+      .cls-49 {
+        clip-path: url(#clippath-72);
+      }
+
+      .cls-50 {
+        clip-path: url(#clippath-51);
+      }
+
+      .cls-51 {
+        clip-path: url(#clippath-58);
+      }
+
+      .cls-52 {
+        clip-path: url(#clippath-59);
+      }
+
+      .cls-53 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-54 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-55 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-56 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-57 {
+        clip-path: url(#clippath-35);
+      }
+
+      .cls-58 {
+        clip-path: url(#clippath-39);
+      }
+
+      .cls-59 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-36);
+      }
+
+      .cls-61 {
+        clip-path: url(#clippath-37);
+      }
+
+      .cls-62 {
+        clip-path: url(#clippath-38);
+      }
+
+      .cls-63 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-64 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-65 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-66 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-67 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-68 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-69 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-70 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-71 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-72 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-73 {
+        clip-path: url(#clippath-69);
+      }
+
+      .cls-74 {
+        clip-path: url(#clippath-41);
+      }
+
+      .cls-75 {
+        clip-path: url(#clippath-42);
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-43);
+      }
+
+      .cls-77 {
+        clip-path: url(#clippath-44);
+      }
+
+      .cls-78 {
+        clip-path: url(#clippath-45);
+      }
+
+      .cls-79 {
+        clip-path: url(#clippath-49);
+      }
+
+      .cls-80 {
+        clip-path: url(#clippath-40);
+      }
+
+      .cls-81 {
+        clip-path: url(#clippath-46);
+      }
+
+      .cls-82 {
+        clip-path: url(#clippath-47);
+      }
+
+      .cls-83 {
+        clip-path: url(#clippath-48);
+      }
+
+      .cls-84 {
+        clip-path: url(#clippath-90);
+      }
+
+      .cls-85 {
+        clip-path: url(#clippath-95);
+      }
+
+      .cls-86 {
+        clip-path: url(#clippath-93);
+      }
+
+      .cls-87 {
+        clip-path: url(#clippath-99);
+      }
+
+      .cls-88 {
+        clip-path: url(#clippath-94);
+      }
+
+      .cls-89 {
+        clip-path: url(#clippath-96);
+      }
+
+      .cls-90 {
+        clip-path: url(#clippath-85);
+      }
+
+      .cls-91 {
+        clip-path: url(#clippath-86);
+      }
+
+      .cls-92 {
+        clip-path: url(#clippath-87);
+      }
+
+      .cls-93 {
+        clip-path: url(#clippath-80);
+      }
+
+      .cls-94 {
+        clip-path: url(#clippath-89);
+      }
+
+      .cls-95 {
+        clip-path: url(#clippath-81);
+      }
+
+      .cls-96 {
+        clip-path: url(#clippath-82);
+      }
+
+      .cls-97 {
+        clip-path: url(#clippath-83);
+      }
+
+      .cls-98 {
+        clip-path: url(#clippath-84);
+      }
+
+      .cls-99 {
+        clip-path: url(#clippath-88);
+      }
+
+      .cls-100 {
+        clip-path: url(#clippath-92);
+      }
+
+      .cls-101 {
+        clip-path: url(#clippath-97);
+      }
+
+      .cls-102 {
+        clip-path: url(#clippath-91);
+      }
+
+      .cls-103 {
+        clip-path: url(#clippath-98);
+      }
+
+      .cls-10 {
+        fill: blue;
+      }
+
+      .cls-104 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-105 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-106 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-107 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-108 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-109 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-110 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-111 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-112 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-113 {
+        clip-path: url(#clippath-102);
+      }
+
+      .cls-114 {
+        clip-path: url(#clippath-101);
+      }
+
+      .cls-115 {
+        clip-path: url(#clippath-103);
+      }
+
+      .cls-116 {
+        clip-path: url(#clippath-100);
+      }
+
+      .cls-117 {
+        fill: #262626;
+      }
+
+      .cls-5 {
+        stroke: #377eb8;
+      }
+
+      .cls-11 {
+        fill: gray;
+        stroke: gray;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 3.7 1.6;
+      }
+
+      .cls-118 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-1" x="252" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect class="cls-1" x="803.4" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <rect class="cls-1" x="1354.9" y="112.3" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <rect class="cls-1" x="252" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-72">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-74">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-75">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-76">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-77">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-78">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-79">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-80">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-81">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-82">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-83">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-84">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-85">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-86">
+      <rect class="cls-1" x="803.4" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-87">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-88">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-89">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-90">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-91">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-92">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-93">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-94">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-95">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-96">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-97">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-98">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-99">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-100">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-101">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-102">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+    <clipPath id="clippath-103">
+      <rect class="cls-1" x="1354.9" y="486.5" width="459.5" height="346.5"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="patch_2">
+        <path class="cls-13" d="M252,458.8h459.5V112.3H252v346.5Z"/>
+      </g>
+      <g id="matplotlib.axis_1">
+        <g id="xtick_1">
+          <g id="line2d_1">
+            <g class="cls-118">
+              <path class="cls-6" d="M252,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_2">
+          <g id="line2d_2">
+            <g class="cls-104">
+              <path class="cls-6" d="M366.9,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_3">
+          <g id="line2d_3">
+            <g class="cls-107">
+              <path class="cls-6" d="M481.8,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_4">
+          <g id="line2d_4">
+            <g class="cls-105">
+              <path class="cls-6" d="M596.6,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_5">
+          <g id="line2d_5">
+            <g class="cls-106">
+              <path class="cls-6" d="M711.5,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_2">
+        <g id="ytick_1">
+          <g id="line2d_6">
+            <g class="cls-112">
+              <path class="cls-6" d="M252,425.6h459.5"/>
+            </g>
+          </g>
+          <g id="text_1">
+            <g>
+              <path id="ArialMT-2212" class="cls-117" d="M210.4,426.8h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-34" class="cls-117" d="M220.8,435.4v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM220.8,428.5v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30" class="cls-117" d="M228.3,425.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,425.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_2">
+          <g id="line2d_7">
+            <g class="cls-109">
+              <path class="cls-6" d="M252,355.6h459.5"/>
+            </g>
+          </g>
+          <g id="text_2">
+            <g>
+              <path id="ArialMT-2212-2" data-name="ArialMT-2212" class="cls-117" d="M210.4,356.8h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-32" class="cls-117" d="M225.8,363.1v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-2" data-name="ArialMT-30" class="cls-117" d="M228.3,355.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,355.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_3">
+          <g id="line2d_8">
+            <g class="cls-108">
+              <path class="cls-6" d="M252,285.6h459.5"/>
+            </g>
+          </g>
+          <g id="text_3">
+            <path id="ArialMT-30-3" data-name="ArialMT-30" class="cls-117" d="M228.4,285.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,285.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="ytick_4">
+          <g id="line2d_9">
+            <g class="cls-111">
+              <path class="cls-6" d="M252,215.6h459.5"/>
+            </g>
+          </g>
+          <g id="text_4">
+            <g>
+              <path id="ArialMT-32-2" data-name="ArialMT-32" class="cls-117" d="M225.8,223.1v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-4" data-name="ArialMT-30" class="cls-117" d="M228.4,215.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,215.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_5">
+          <g id="line2d_10">
+            <g class="cls-110">
+              <path class="cls-6" d="M252,145.6h459.5"/>
+            </g>
+          </g>
+          <g id="text_5">
+            <g>
+              <path id="ArialMT-34-2" data-name="ArialMT-34" class="cls-117" d="M220.8,155.4v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM220.8,148.5v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30-5" data-name="ArialMT-30" class="cls-117" d="M228.4,145.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,145.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="patch_3">
+        <g class="cls-19">
+          <path class="cls-8" d="M252,458.8h17.2V112.3h-17.2v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_4">
+        <g class="cls-16">
+          <path class="cls-10" d="M269.2,458.8h305.6V112.3h-305.6v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_5">
+        <g class="cls-23">
+          <path class="cls-9" d="M574.9,458.8h114.9V112.3h-114.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="PolyCollection_1">
+        <g class="cls-21">
+          <path id="mf4aa51ede1" class="cls-11" d="M574.9,320.6v-70h114.9v70h-114.9Z"/>
+        </g>
+      </g>
+      <g id="line2d_11">
+        <g class="cls-22">
+          <path class="cls-4" d="M252,285.6h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_12">
+        <g class="cls-20">
+          <path class="cls-7" d="M252,128.1h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_13">
+        <g class="cls-17">
+          <path class="cls-7" d="M252,443.1h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_14">
+        <g class="cls-14">
+          <path class="cls-3" d="M252,285.6h17.2l3.2-157.5h78.9l3.2,157.5h135l3.2-157.5h78.9l3.2,157.5h0"/>
+        </g>
+      </g>
+      <g id="patch_6">
+        <path class="cls-2" d="M252,458.8V112.3"/>
+      </g>
+      <g id="patch_7">
+        <path class="cls-2" d="M711.5,458.8V112.3"/>
+      </g>
+      <g id="patch_8">
+        <path class="cls-2" d="M252,458.8h459.5"/>
+      </g>
+      <g id="patch_9">
+        <path class="cls-2" d="M252,112.3h459.5"/>
+      </g>
+      <g id="legend_1">
+        <g id="patch_10">
+          <path class="cls-12" d="M440,445.1h252.3c3.7,0,5.5-1.8,5.5-5.5v-36.1c0-3.7-1.8-5.5-5.5-5.5h-252.3c-3.7,0-5.5,1.8-5.5,5.5v36.1c0,3.7,1.8,5.5,5.5,5.5Z"/>
+        </g>
+        <g id="line2d_15">
+          <path class="cls-3" d="M445.5,419h55"/>
+        </g>
+        <g id="text_6">
+          <g>
+            <path id="ArialMT-54" class="cls-117" d="M529.6,428.6v-17.4h-6.5v-2.3h15.6v2.3h-6.5v17.4h-2.6Z"/>
+            <path id="ArialMT-45" class="cls-117" d="M541.4,428.6v-19.7h14.2v2.3h-11.6v6h10.9v2.3h-10.9v6.7h12.1v2.3h-14.7Z"/>
+            <path id="ArialMT-3d" class="cls-117" d="M572.1,417h-13v-2.3h13v2.3ZM572.1,423h-13v-2.3h13v2.3Z"/>
+            <path id="ArialMT-20" class="cls-117" d="M573.7,428.6"/>
+            <path id="ArialMT-37" class="cls-117" d="M582.6,411.5v-2.3h12.7v1.9c-1.3,1.3-2.5,3.1-3.7,5.3-1.2,2.2-2.2,4.5-2.8,6.8-.5,1.6-.8,3.5-.9,5.4h-2.5c0-1.5.3-3.4.9-5.6.6-2.2,1.4-4.3,2.5-6.3s2.2-3.8,3.5-5.1h-9.6Z"/>
+            <path id="ArialMT-36" class="cls-117" d="M610.3,413.7l-2.4.2c-.2-.9-.5-1.6-.9-2.1-.7-.7-1.5-1-2.4-1s-1.4.2-2,.6c-.8.6-1.4,1.4-1.8,2.4-.4,1.1-.7,2.6-.7,4.6.6-.9,1.3-1.5,2.1-2s1.7-.6,2.6-.6c1.6,0,3,.6,4.1,1.8,1.1,1.2,1.7,2.7,1.7,4.6s-.3,2.4-.8,3.4c-.5,1.1-1.3,1.9-2.2,2.4-.9.6-2,.8-3.2.8-2,0-3.7-.7-4.9-2.2-1.3-1.5-1.9-3.9-1.9-7.3s.7-6.6,2.1-8.3c1.2-1.5,2.9-2.3,5-2.3s2.8.4,3.8,1.3c1,.9,1.6,2.1,1.8,3.6ZM600.4,422.2c0,.8.2,1.6.5,2.4.4.8.8,1.3,1.5,1.7.6.4,1.3.6,2,.6,1,0,1.9-.4,2.6-1.2.7-.8,1.1-1.9,1.1-3.4s-.4-2.4-1.1-3.2c-.7-.8-1.6-1.2-2.7-1.2s-2,.4-2.8,1.2c-.8.8-1.1,1.8-1.1,3.1Z"/>
+            <path id="ArialMT-2e" class="cls-117" d="M614.4,428.6v-2.8h2.8v2.8h-2.8Z"/>
+            <path id="ArialMT-32-3" data-name="ArialMT-32" class="cls-117" d="M633.4,426.3v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+            <path id="ArialMT-35" class="cls-117" d="M636,423.4l2.5-.2c.2,1.2.6,2.2,1.3,2.8.7.6,1.5.9,2.5.9s2.1-.4,3-1.3c.8-.9,1.2-2,1.2-3.5s-.4-2.5-1.2-3.3c-.8-.8-1.8-1.2-3-1.2s-1.5.2-2.1.5c-.6.4-1.1.8-1.5,1.4l-2.3-.3,1.9-10.1h9.8v2.3h-7.9l-1.1,5.3c1.2-.8,2.4-1.2,3.7-1.2s3.2.6,4.3,1.8c1.2,1.2,1.8,2.7,1.8,4.6s-.5,3.3-1.6,4.6c-1.3,1.6-3,2.4-5.2,2.4s-3.3-.5-4.4-1.5c-1.1-1-1.8-2.3-1.9-4Z"/>
+            <path id="ArialMT-6d" class="cls-117" d="M651.9,428.6v-14.3h2.2v2c.4-.7,1-1.3,1.8-1.7.7-.4,1.6-.6,2.5-.6s1.9.2,2.6.7,1.2,1.1,1.4,1.8c1.1-1.7,2.6-2.5,4.4-2.5s2.5.4,3.3,1.2c.8.8,1.1,2,1.1,3.6v9.8h-2.4v-9c0-1,0-1.7-.2-2.1-.2-.4-.4-.8-.9-1-.4-.3-.9-.4-1.4-.4-1,0-1.8.3-2.5,1-.7.7-1,1.7-1,3.2v8.3h-2.4v-9.3c0-1.1-.2-1.9-.6-2.4-.4-.5-1-.8-1.9-.8s-1.3.2-1.9.5c-.6.4-1,.9-1.3,1.6-.3.7-.4,1.7-.4,3v7.4h-2.4Z"/>
+            <path id="ArialMT-73" class="cls-117" d="M673.9,424.3l2.4-.4c.1,1,.5,1.7,1.1,2.2.6.5,1.5.8,2.6.8s1.9-.2,2.5-.7c.5-.5.8-1,.8-1.6s-.2-1-.7-1.3c-.3-.2-1.2-.5-2.5-.8-1.8-.4-3-.8-3.7-1.2s-1.2-.8-1.6-1.4c-.4-.6-.5-1.2-.5-1.9s.1-1.2.4-1.8c.3-.5.7-1,1.2-1.4.4-.3.9-.5,1.5-.7.7-.2,1.3-.3,2.1-.3,1.1,0,2.1.2,2.9.5.8.3,1.5.8,1.9,1.3.4.6.7,1.3.8,2.2l-2.4.3c-.1-.7-.4-1.3-.9-1.7-.5-.4-1.2-.6-2.2-.6s-1.9.2-2.4.6c-.5.4-.7.8-.7,1.3s0,.6.3.8c.2.3.5.5.9.6.2,0,1,.3,2.1.6,1.7.5,2.9.8,3.6,1.1.7.3,1.2.7,1.6,1.3.4.6.6,1.2.6,2.1s-.2,1.6-.7,2.3c-.5.7-1.1,1.3-2,1.7-.9.4-1.9.6-3,.6-1.9,0-3.3-.4-4.2-1.2-1-.8-1.6-1.9-1.9-3.4Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="patch_11">
+        <path class="cls-13" d="M803.4,458.8h459.5V112.3h-459.5v346.5Z"/>
+      </g>
+      <g id="matplotlib.axis_3">
+        <g id="xtick_6">
+          <g id="line2d_16">
+            <g class="cls-18">
+              <path class="cls-6" d="M803.4,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_7">
+          <g id="line2d_17">
+            <g class="cls-15">
+              <path class="cls-6" d="M918.3,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_8">
+          <g id="line2d_18">
+            <g class="cls-67">
+              <path class="cls-6" d="M1033.2,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_9">
+          <g id="line2d_19">
+            <g class="cls-68">
+              <path class="cls-6" d="M1148.1,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_10">
+          <g id="line2d_20">
+            <g class="cls-69">
+              <path class="cls-6" d="M1263,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_4">
+        <g id="ytick_6">
+          <g id="line2d_21">
+            <g class="cls-70">
+              <path class="cls-6" d="M803.4,443.1h459.5"/>
+            </g>
+          </g>
+          <g id="text_7">
+            <g>
+              <path id="ArialMT-2212-3" data-name="ArialMT-2212" class="cls-117" d="M746.5,444.3h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-32-4" data-name="ArialMT-32" class="cls-117" d="M761.9,450.6v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-6" data-name="ArialMT-30" class="cls-117" d="M764.5,443.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,443.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-7" data-name="ArialMT-30" class="cls-117" d="M779.8,443.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,443.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_7">
+          <g id="line2d_22">
+            <g class="cls-71">
+              <path class="cls-6" d="M803.4,364.3h459.5"/>
+            </g>
+          </g>
+          <g id="text_8">
+            <g>
+              <path id="ArialMT-2212-4" data-name="ArialMT-2212" class="cls-117" d="M746.5,365.6h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-31" class="cls-117" d="M758.3,374.2h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+              <path id="ArialMT-30-8" data-name="ArialMT-30" class="cls-117" d="M764.5,364.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,364.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-9" data-name="ArialMT-30" class="cls-117" d="M779.8,364.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,364.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_8">
+          <g id="line2d_23">
+            <g class="cls-72">
+              <path class="cls-6" d="M803.4,285.6h459.5"/>
+            </g>
+          </g>
+          <g id="text_9">
+            <path id="ArialMT-30-10" data-name="ArialMT-30" class="cls-117" d="M779.8,285.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,285.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="ytick_9">
+          <g id="line2d_24">
+            <g class="cls-65">
+              <path class="cls-6" d="M803.4,206.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_10">
+            <g>
+              <path id="ArialMT-31-2" data-name="ArialMT-31" class="cls-117" d="M758.3,216.7h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+              <path id="ArialMT-30-11" data-name="ArialMT-30" class="cls-117" d="M764.5,207c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,207c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-12" data-name="ArialMT-30" class="cls-117" d="M779.8,207c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,207c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_10">
+          <g id="line2d_25">
+            <g class="cls-63">
+              <path class="cls-6" d="M803.4,128.1h459.5"/>
+            </g>
+          </g>
+          <g id="text_11">
+            <g>
+              <path id="ArialMT-32-5" data-name="ArialMT-32" class="cls-117" d="M761.9,135.6v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-13" data-name="ArialMT-30" class="cls-117" d="M764.5,128.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,128.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-14" data-name="ArialMT-30" class="cls-117" d="M779.8,128.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,128.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="patch_12">
+        <g class="cls-66">
+          <path class="cls-8" d="M803.4,458.8h17.2V112.3h-17.2v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_13">
+        <g class="cls-64">
+          <path class="cls-10" d="M820.7,458.8h305.6V112.3h-305.6v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_14">
+        <g class="cls-59">
+          <path class="cls-9" d="M1126.3,458.8h114.9V112.3h-114.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="line2d_26">
+        <g class="cls-53">
+          <path class="cls-4" d="M803.4,285.6h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_27">
+        <g class="cls-54">
+          <path class="cls-7" d="M803.4,128.1h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_28">
+        <g class="cls-55">
+          <path class="cls-7" d="M803.4,443.1h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_29">
+        <g class="cls-56">
+          <path class="cls-3" d="M803.4,285.6h17.2v-64.4h3.2v64.4h79v64.4h3.2v-64.4h135v-64.4h3.2v64.4h79v64.4h3.2"/>
+        </g>
+      </g>
+      <g id="patch_15">
+        <path class="cls-2" d="M803.4,458.8V112.3"/>
+      </g>
+      <g id="patch_16">
+        <path class="cls-2" d="M1263,458.8V112.3"/>
+      </g>
+      <g id="patch_17">
+        <path class="cls-2" d="M803.4,458.8h459.5"/>
+      </g>
+      <g id="patch_18">
+        <path class="cls-2" d="M803.4,112.3h459.5"/>
+      </g>
+      <g id="legend_2">
+        <g id="patch_19">
+          <path class="cls-12" d="M1232.7,445.1h11c3.7,0,5.5-1.8,5.5-5.5v-11c0-3.7-1.8-5.5-5.5-5.5h-11c-3.7,0-5.5,1.8-5.5,5.5v11c0,3.7,1.8,5.5,5.5,5.5Z"/>
+        </g>
+      </g>
+      <g id="patch_20">
+        <path class="cls-13" d="M1354.9,458.8h459.5V112.3h-459.5v346.5Z"/>
+      </g>
+      <g id="matplotlib.axis_5">
+        <g id="xtick_11">
+          <g id="line2d_30">
+            <g class="cls-57">
+              <path class="cls-6" d="M1354.9,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_12">
+          <g id="line2d_31">
+            <g class="cls-60">
+              <path class="cls-6" d="M1469.8,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_13">
+          <g id="line2d_32">
+            <g class="cls-61">
+              <path class="cls-6" d="M1584.6,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_14">
+          <g id="line2d_33">
+            <g class="cls-62">
+              <path class="cls-6" d="M1699.5,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_15">
+          <g id="line2d_34">
+            <g class="cls-58">
+              <path class="cls-6" d="M1814.4,458.8V112.3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_6">
+        <g id="ytick_11">
+          <g id="line2d_35">
+            <g class="cls-80">
+              <path class="cls-6" d="M1354.9,458.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_12">
+            <g>
+              <path id="ArialMT-30-15" data-name="ArialMT-30" class="cls-117" d="M1308.3,459c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,459c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-2" data-name="ArialMT-2e" class="cls-117" d="M1324.9,468.7v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-30-16" data-name="ArialMT-30" class="cls-117" d="M1331.2,459c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1333.7,459c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_12">
+          <g id="line2d_36">
+            <g class="cls-74">
+              <path class="cls-6" d="M1354.9,395.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_13">
+            <g>
+              <path id="ArialMT-30-17" data-name="ArialMT-30" class="cls-117" d="M1308.3,396c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,396c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-3" data-name="ArialMT-2e" class="cls-117" d="M1324.9,405.7v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-32-6" data-name="ArialMT-32" class="cls-117" d="M1343.9,403.3v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_13">
+          <g id="line2d_37">
+            <g class="cls-75">
+              <path class="cls-6" d="M1354.9,332.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_14">
+            <g>
+              <path id="ArialMT-30-18" data-name="ArialMT-30" class="cls-117" d="M1308.3,333c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,333c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-4" data-name="ArialMT-2e" class="cls-117" d="M1324.9,342.7v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-34-3" data-name="ArialMT-34" class="cls-117" d="M1339,342.7v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM1339,335.7v-8.9l-6.2,8.9h6.2Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_14">
+          <g id="line2d_38">
+            <g class="cls-76">
+              <path class="cls-6" d="M1354.9,269.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_15">
+            <g>
+              <path id="ArialMT-30-19" data-name="ArialMT-30" class="cls-117" d="M1308.3,270c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,270c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-5" data-name="ArialMT-2e" class="cls-117" d="M1324.9,279.7v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-36-2" data-name="ArialMT-36" class="cls-117" d="M1343.8,264.8l-2.4.2c-.2-.9-.5-1.6-.9-2.1-.7-.7-1.5-1-2.4-1s-1.4.2-2,.6c-.8.6-1.4,1.4-1.8,2.4-.4,1.1-.7,2.6-.7,4.6.6-.9,1.3-1.5,2.1-2s1.7-.6,2.6-.6c1.6,0,3,.6,4.1,1.8,1.1,1.2,1.7,2.7,1.7,4.6s-.3,2.4-.8,3.4c-.5,1.1-1.3,1.9-2.2,2.4-.9.6-2,.8-3.2.8-2,0-3.7-.7-4.9-2.2-1.3-1.5-1.9-3.9-1.9-7.3s.7-6.6,2.1-8.3c1.2-1.5,2.9-2.3,5-2.3s2.8.4,3.8,1.3c1,.9,1.6,2.1,1.8,3.6ZM1333.9,273.3c0,.8.2,1.6.5,2.4.4.8.8,1.3,1.5,1.7.6.4,1.3.6,2,.6,1,0,1.9-.4,2.6-1.2.7-.8,1.1-1.9,1.1-3.4s-.4-2.4-1.1-3.2c-.7-.8-1.6-1.2-2.7-1.2s-2,.4-2.8,1.2c-.8.8-1.1,1.8-1.1,3.1Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_15">
+          <g id="line2d_39">
+            <g class="cls-77">
+              <path class="cls-6" d="M1354.9,206.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_16">
+            <g>
+              <path id="ArialMT-30-20" data-name="ArialMT-30" class="cls-117" d="M1308.3,207c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,207c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-6" data-name="ArialMT-2e" class="cls-117" d="M1324.9,216.7v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-38" class="cls-117" d="M1334.9,206c-1-.4-1.7-.9-2.2-1.6-.5-.7-.7-1.5-.7-2.4,0-1.4.5-2.6,1.5-3.6,1-1,2.4-1.5,4.1-1.5s3.1.5,4.2,1.5c1,1,1.6,2.2,1.6,3.6s-.2,1.7-.7,2.4c-.5.7-1.2,1.2-2.2,1.6,1.2.4,2.1,1,2.8,1.9.6.9.9,1.9.9,3.1s-.6,3.1-1.8,4.2c-1.2,1.1-2.8,1.7-4.7,1.7s-3.5-.6-4.7-1.7c-1.2-1.2-1.8-2.6-1.8-4.3s.3-2.4,1-3.2c.7-.9,1.6-1.5,2.8-1.8ZM1334.5,201.9c0,.9.3,1.7.9,2.3.6.6,1.4.9,2.3.9s1.7-.3,2.3-.9c.6-.6.9-1.3.9-2.2s-.3-1.6-.9-2.2c-.6-.6-1.4-.9-2.3-.9s-1.7.3-2.3.9c-.6.6-.9,1.3-.9,2.1ZM1333.7,211c0,.7.2,1.4.5,2s.8,1.1,1.5,1.5c.6.4,1.3.5,2.1.5,1.2,0,2.1-.4,2.9-1.1.8-.7,1.1-1.7,1.1-2.8s-.4-2.1-1.2-2.9c-.8-.8-1.7-1.1-2.9-1.1s-2.1.4-2.8,1.1c-.7.8-1.1,1.7-1.1,2.8Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_16">
+          <g id="line2d_40">
+            <g class="cls-78">
+              <path class="cls-6" d="M1354.9,143.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_17">
+            <g>
+              <path id="ArialMT-31-3" data-name="ArialMT-31" class="cls-117" d="M1317.4,153.7h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+              <path id="ArialMT-2e-7" data-name="ArialMT-2e" class="cls-117" d="M1324.9,153.7v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-30-21" data-name="ArialMT-30" class="cls-117" d="M1331.2,144c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1333.7,144c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="patch_21">
+        <g class="cls-81">
+          <path class="cls-8" d="M1354.9,458.8h17.2V112.3h-17.2v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_22">
+        <g class="cls-82">
+          <path class="cls-10" d="M1372.1,458.8h305.6V112.3h-305.6v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_23">
+        <g class="cls-83">
+          <path class="cls-9" d="M1677.7,458.8h114.9V112.3h-114.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="line2d_41">
+        <g class="cls-79">
+          <path class="cls-4" d="M1354.9,458.8h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_42">
+        <g class="cls-37">
+          <path class="cls-7" d="M1354.9,143.8h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_43">
+        <g class="cls-50">
+          <path class="cls-3" d="M1354.9,458.8h17.2l.5-93.7.6-66,.6-48.3.7-36.5.7-28.3.5,78.5.5,48,.6,34.6.6,25.3.7,18.8.7,13.2.7,10.3.8,8.1.9,6.4.9,4.8.9,4,1,3.2,1,2.7,1.1,2.2,1.1,1.8,1.3,1.6,1.4,1.4,1.5,1.2,1.7,1,2,.9,2.2.8,2.7.7,3.3.6,4.1.6,5.2.5,7,.4,9.7.4,14.4.3h10.6c0,.1.6-100.7.6-100.7l.6-63.2.6-46.7.7-35.5.7-25.8.5,78.5.5,47.9.6,34.6.6,25.3.7,18.8.7,13.2.7,10.3.8,8.1.9,6.4.9,4.8.9,4,1,3.2,1,2.7,1.1,2.2,1.1,1.8,1.3,1.6,1.4,1.4,1.5,1.2,1.7,1,2,.9,2.2.8,2.7.7,3.3.6,4.1.6,5.3.5,7.1.4,9.9.3,14.9.3,24.9.2h41c0,.1.5-93.4.5-93.4l.6-66,.6-48.3.7-36.5.7-28.3.5,78.5.5,48,.6,34.6.6,25.3.7,18.8.7,13.2.7,10.3.8,8.1.9,6.4.9,4.8.9,4,1,3.2,1,2.7,1.1,2.2,1.1,1.8,1.3,1.6,1.4,1.4,1.5,1.2,1.7,1,2,.9,2.2.8,2.7.7,3.3.6,4.1.6,5.2.5,7,.4,9.8.3,14.5.3h10.3c0,.1.6-100.8.6-100.8l.6-63.2.6-46.7.7-35.5.7-25.8h0"/>
+        </g>
+      </g>
+      <g id="patch_24">
+        <path class="cls-2" d="M1354.9,458.8V112.3"/>
+      </g>
+      <g id="patch_25">
+        <path class="cls-2" d="M1814.4,458.8V112.3"/>
+      </g>
+      <g id="patch_26">
+        <path class="cls-2" d="M1354.9,458.8h459.5"/>
+      </g>
+      <g id="patch_27">
+        <path class="cls-2" d="M1354.9,112.3h459.5"/>
+      </g>
+      <g id="legend_3">
+        <g id="patch_28">
+          <path class="cls-12" d="M1633.8,445.1h161.3c3.7,0,5.5-1.8,5.5-5.5v-36.1c0-3.7-1.8-5.5-5.5-5.5h-161.3c-3.7,0-5.5,1.8-5.5,5.5v36.1c0,3.7,1.8,5.5,5.5,5.5Z"/>
+        </g>
+        <g id="line2d_44">
+          <path class="cls-3" d="M1639.3,419h55"/>
+        </g>
+        <g id="text_18">
+          <g>
+            <path id="ArialMT-54-2" data-name="ArialMT-54" class="cls-117" d="M1723.4,428.6v-17.4h-6.5v-2.3h15.6v2.3h-6.5v17.4h-2.6Z"/>
+            <path id="ArialMT-52" class="cls-117" d="M1735.3,428.6v-19.7h8.7c1.8,0,3.1.2,4,.5.9.4,1.6,1,2.2,1.9.5.9.8,1.9.8,3s-.5,2.6-1.4,3.5c-.9,1-2.3,1.6-4.2,1.8.7.3,1.2.7,1.6,1,.8.7,1.5,1.6,2.2,2.6l3.4,5.4h-3.3l-2.6-4.1c-.8-1.2-1.4-2.1-1.9-2.7-.5-.6-.9-1.1-1.3-1.3-.4-.3-.8-.4-1.2-.5-.3,0-.8,0-1.4,0h-3v8.7h-2.6ZM1737.9,417.6h5.6c1.2,0,2.1-.1,2.8-.4.7-.2,1.2-.6,1.5-1.2s.5-1.1.5-1.8c0-.9-.3-1.7-1-2.3-.7-.6-1.7-.9-3.2-.9h-6.2v6.5Z"/>
+            <path id="ArialMT-41" class="cls-117" d="M1752.9,428.6l7.6-19.7h2.8l8.1,19.7h-3l-2.3-6h-8.2l-2.2,6h-2.8ZM1758.6,420.5h6.7l-2.1-5.5c-.6-1.7-1.1-3-1.4-4.1-.3,1.3-.6,2.5-1.1,3.8l-2.2,5.8Z"/>
+            <path id="ArialMT-50" class="cls-117" d="M1773.4,428.6v-19.7h7.4c1.3,0,2.3,0,3,.2,1,.2,1.8.5,2.4.9.7.4,1.2,1.1,1.6,1.9.4.8.6,1.7.6,2.7,0,1.7-.5,3.1-1.6,4.2-1.1,1.2-3,1.7-5.8,1.7h-5v8h-2.6ZM1776,418.3h5.1c1.7,0,2.9-.3,3.6-.9s1.1-1.5,1.1-2.6-.2-1.5-.6-2.1c-.4-.6-1-1-1.6-1.2-.4-.1-1.3-.2-2.4-.2h-5v7Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="patch_29">
+        <path class="cls-13" d="M252,833h459.5v-346.5H252v346.5Z"/>
+      </g>
+      <g id="matplotlib.axis_7">
+        <g id="xtick_16">
+          <g id="line2d_45">
+            <g class="cls-39">
+              <path class="cls-6" d="M252,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_19">
+            <path id="ArialMT-30-22" data-name="ArialMT-30" class="cls-117" d="M245.5,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM248,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="xtick_17">
+          <g id="line2d_46">
+            <g class="cls-43">
+              <path class="cls-6" d="M366.9,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_20">
+            <g>
+              <path id="ArialMT-32-7" data-name="ArialMT-32" class="cls-117" d="M365.4,859.9v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-23" data-name="ArialMT-30" class="cls-117" d="M368,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM370.5,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_18">
+          <g id="line2d_47">
+            <g class="cls-41">
+              <path class="cls-6" d="M481.8,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_21">
+            <g>
+              <path id="ArialMT-34-4" data-name="ArialMT-34" class="cls-117" d="M475.4,862.2v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM475.4,855.3v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30-24" data-name="ArialMT-30" class="cls-117" d="M482.9,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM485.4,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_19">
+          <g id="line2d_48">
+            <g class="cls-38">
+              <path class="cls-6" d="M596.6,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_22">
+            <g>
+              <path id="ArialMT-36-3" data-name="ArialMT-36" class="cls-117" d="M595,847.4l-2.4.2c-.2-.9-.5-1.6-.9-2.1-.7-.7-1.5-1-2.4-1s-1.4.2-2,.6c-.8.6-1.4,1.4-1.8,2.4-.4,1.1-.7,2.6-.7,4.6.6-.9,1.3-1.5,2.1-2s1.7-.6,2.6-.6c1.6,0,3,.6,4.1,1.8,1.1,1.2,1.7,2.7,1.7,4.6s-.3,2.4-.8,3.4c-.5,1.1-1.3,1.9-2.2,2.4-.9.6-2,.8-3.2.8-2,0-3.7-.7-4.9-2.2-1.3-1.5-1.9-3.9-1.9-7.3s.7-6.6,2.1-8.3c1.2-1.5,2.9-2.3,5-2.3s2.8.4,3.8,1.3c1,.9,1.6,2.1,1.8,3.6ZM585.2,855.8c0,.8.2,1.6.5,2.4.4.8.8,1.3,1.5,1.7.6.4,1.3.6,2,.6,1,0,1.9-.4,2.6-1.2.7-.8,1.1-1.9,1.1-3.4s-.4-2.4-1.1-3.2c-.7-.8-1.6-1.2-2.7-1.2s-2,.4-2.8,1.2c-.8.8-1.1,1.8-1.1,3.1Z"/>
+              <path id="ArialMT-30-25" data-name="ArialMT-30" class="cls-117" d="M597.8,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM600.3,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_20">
+          <g id="line2d_49">
+            <g class="cls-42">
+              <path class="cls-6" d="M711.5,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_23">
+            <g>
+              <path id="ArialMT-38-2" data-name="ArialMT-38" class="cls-117" d="M701.1,851.6c-1-.4-1.7-.9-2.2-1.6-.5-.7-.7-1.5-.7-2.4,0-1.4.5-2.6,1.5-3.6,1-1,2.4-1.5,4.1-1.5s3.1.5,4.2,1.5c1,1,1.6,2.2,1.6,3.6s-.2,1.7-.7,2.4c-.5.7-1.2,1.2-2.2,1.6,1.2.4,2.1,1,2.8,1.9.6.9.9,1.9.9,3.1s-.6,3.1-1.8,4.2c-1.2,1.1-2.8,1.7-4.7,1.7s-3.5-.6-4.7-1.7c-1.2-1.2-1.8-2.6-1.8-4.3s.3-2.4,1-3.2c.7-.9,1.6-1.5,2.8-1.8ZM700.6,847.5c0,.9.3,1.7.9,2.3.6.6,1.4.9,2.3.9s1.7-.3,2.3-.9c.6-.6.9-1.3.9-2.2s-.3-1.6-.9-2.2c-.6-.6-1.4-.9-2.3-.9s-1.7.3-2.3.9c-.6.6-.9,1.3-.9,2.1ZM699.8,856.5c0,.7.2,1.4.5,2s.8,1.1,1.5,1.5c.6.4,1.3.5,2.1.5,1.2,0,2.1-.4,2.9-1.1.8-.7,1.1-1.7,1.1-2.8s-.4-2.1-1.2-2.9c-.8-.8-1.7-1.1-2.9-1.1s-2.1.4-2.8,1.1c-.7.8-1.1,1.7-1.1,2.8Z"/>
+              <path id="ArialMT-30-26" data-name="ArialMT-30" class="cls-117" d="M712.7,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM715.2,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="text_24">
+          <g>
+            <path id="ArialMT-54-3" data-name="ArialMT-54" class="cls-117" d="M424.3,893.2v-18.9h-7.1v-2.5h17v2.5h-7.1v18.9h-2.8Z"/>
+            <path id="ArialMT-69" class="cls-117" d="M435.7,874.7v-3h2.6v3h-2.6ZM435.7,893.2v-15.6h2.6v15.6h-2.6Z"/>
+            <path id="ArialMT-6d-2" data-name="ArialMT-6d" class="cls-117" d="M442.3,893.2v-15.6h2.4v2.2c.5-.8,1.1-1.4,1.9-1.8.8-.5,1.7-.7,2.8-.7s2.1.2,2.8.7,1.3,1.1,1.6,2c1.2-1.8,2.8-2.7,4.8-2.7s2.7.4,3.6,1.3c.8.9,1.2,2.2,1.2,3.9v10.7h-2.6v-9.8c0-1.1,0-1.8-.3-2.3-.2-.5-.5-.8-.9-1.1-.4-.3-1-.4-1.6-.4-1.1,0-2,.4-2.7,1.1-.7.7-1.1,1.9-1.1,3.5v9h-2.6v-10.1c0-1.2-.2-2-.6-2.6-.4-.6-1.1-.9-2.1-.9s-1.4.2-2.1.6c-.6.4-1.1,1-1.4,1.7-.3.8-.4,1.8-.4,3.2v8.1h-2.6Z"/>
+            <path id="ArialMT-65" class="cls-117" d="M478,888.2l2.7.3c-.4,1.6-1.2,2.8-2.4,3.7-1.2.9-2.6,1.3-4.5,1.3s-4.1-.7-5.4-2.1c-1.3-1.4-2-3.4-2-5.9s.7-4.7,2-6.1c1.4-1.4,3.1-2.2,5.2-2.2s3.8.7,5.1,2.1,2,3.4,2,6,0,.4,0,.7h-11.6c0,1.7.6,3,1.4,3.9.9.9,2,1.4,3.3,1.4s1.8-.3,2.5-.8c.7-.5,1.2-1.3,1.6-2.4ZM469.3,883.9h8.7c-.1-1.3-.4-2.3-1-2.9-.8-1-1.9-1.5-3.3-1.5s-2.2.4-3.1,1.2-1.3,1.9-1.4,3.3Z"/>
+            <path id="ArialMT-20-2" data-name="ArialMT-20" class="cls-117" d="M482,893.2"/>
+            <path id="ArialMT-5b" class="cls-117" d="M492.4,899.1v-27.4h5.8v2.2h-3.2v23.1h3.2v2.2h-5.8Z"/>
+            <path id="ArialMT-6d-3" data-name="ArialMT-6d" class="cls-117" d="M500.7,893.2v-15.6h2.4v2.2c.5-.8,1.1-1.4,1.9-1.8.8-.5,1.7-.7,2.8-.7s2.1.2,2.8.7,1.3,1.1,1.6,2c1.2-1.8,2.8-2.7,4.8-2.7s2.7.4,3.6,1.3c.8.9,1.2,2.2,1.2,3.9v10.7h-2.6v-9.8c0-1.1,0-1.8-.3-2.3-.2-.5-.5-.8-.9-1.1-.4-.3-1-.4-1.6-.4-1.1,0-2,.4-2.7,1.1-.7.7-1.1,1.9-1.1,3.5v9h-2.6v-10.1c0-1.2-.2-2-.6-2.6-.4-.6-1.1-.9-2.1-.9s-1.4.2-2.1.6c-.6.4-1.1,1-1.4,1.7-.3.8-.4,1.8-.4,3.2v8.1h-2.6Z"/>
+            <path id="ArialMT-73-2" data-name="ArialMT-73" class="cls-117" d="M524.6,888.5l2.6-.4c.1,1,.6,1.8,1.2,2.4.7.6,1.6.8,2.8.8s2.1-.2,2.7-.7c.6-.5.9-1.1.9-1.7s-.3-1.1-.8-1.4c-.4-.2-1.3-.5-2.7-.9-1.9-.5-3.3-.9-4-1.3s-1.3-.8-1.7-1.5c-.4-.6-.6-1.3-.6-2.1s.2-1.3.5-1.9c.3-.6.8-1.1,1.3-1.5.4-.3,1-.6,1.7-.8.7-.2,1.5-.3,2.3-.3,1.2,0,2.3.2,3.2.5.9.4,1.6.8,2,1.4.4.6.7,1.4.9,2.4l-2.6.4c-.1-.8-.5-1.4-1-1.9-.6-.5-1.4-.7-2.4-.7s-2.1.2-2.6.6c-.5.4-.8.9-.8,1.4s.1.6.3.9c.2.3.6.5,1,.7.3,0,1,.3,2.3.7,1.9.5,3.2.9,3.9,1.2.7.3,1.3.8,1.7,1.4.4.6.6,1.4.6,2.3s-.3,1.7-.8,2.5c-.5.8-1.3,1.4-2.2,1.8-1,.4-2.1.6-3.3.6-2,0-3.6-.4-4.6-1.3-1.1-.8-1.7-2.1-2-3.7Z"/>
+            <path id="ArialMT-5d" class="cls-117" d="M545.1,899.1h-5.8v-2.2h3.2v-23.1h-3.2v-2.2h5.8v27.4Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_8">
+        <g id="ytick_17">
+          <g id="line2d_50">
+            <g class="cls-40">
+              <path class="cls-6" d="M252,799.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_25">
+            <g>
+              <path id="ArialMT-2212-5" data-name="ArialMT-2212" class="cls-117" d="M210.4,801.1h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-34-5" data-name="ArialMT-34" class="cls-117" d="M220.8,809.6v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM220.8,802.7v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30-27" data-name="ArialMT-30" class="cls-117" d="M228.3,799.9c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,799.9c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_18">
+          <g id="line2d_51">
+            <g class="cls-51">
+              <path class="cls-6" d="M252,729.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_26">
+            <g>
+              <path id="ArialMT-2212-6" data-name="ArialMT-2212" class="cls-117" d="M210.4,731.1h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-32-8" data-name="ArialMT-32" class="cls-117" d="M225.8,737.3v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-28" data-name="ArialMT-30" class="cls-117" d="M228.3,729.9c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,729.9c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_19">
+          <g id="line2d_52">
+            <g class="cls-52">
+              <path class="cls-6" d="M252,659.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_27">
+            <path id="ArialMT-30-29" data-name="ArialMT-30" class="cls-117" d="M228.4,659.9c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,659.9c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="ytick_20">
+          <g id="line2d_53">
+            <g class="cls-27">
+              <path class="cls-6" d="M252,589.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_28">
+            <g>
+              <path id="ArialMT-32-9" data-name="ArialMT-32" class="cls-117" d="M225.8,597.3v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-30" data-name="ArialMT-30" class="cls-117" d="M228.4,589.9c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,589.9c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_21">
+          <g id="line2d_54">
+            <g class="cls-24">
+              <path class="cls-6" d="M252,519.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_29">
+            <g>
+              <path id="ArialMT-34-6" data-name="ArialMT-34" class="cls-117" d="M220.8,529.6v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM220.8,522.7v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30-31" data-name="ArialMT-30" class="cls-117" d="M228.4,519.9c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM230.8,519.9c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="patch_30">
+        <g class="cls-29">
+          <path class="cls-8" d="M252,833h17.2v-346.5h-17.2v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_31">
+        <g class="cls-32">
+          <path class="cls-10" d="M269.2,833h275.9v-346.5h-275.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_32">
+        <g class="cls-30">
+          <path class="cls-9" d="M545.2,833h114.9v-346.5h-114.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="PolyCollection_2">
+        <g class="cls-28">
+          <path id="ma39f561868" class="cls-11" d="M545.2,694.8v-70h114.9v70h-114.9Z"/>
+        </g>
+      </g>
+      <g id="line2d_55">
+        <g class="cls-31">
+          <path class="cls-4" d="M252,659.8h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_56">
+        <g class="cls-25">
+          <path class="cls-7" d="M252,502.3h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_57">
+        <g class="cls-26">
+          <path class="cls-7" d="M252,817.3h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_58">
+        <g class="cls-73">
+          <path class="cls-5" d="M252,659.8h17.5l.5,55.5.5,26.4,1.4,56.4.5,17.2.5.4h115.3l.9-77.3,1.4-57.3,2.3-83,2.8-92.7.5-1.5h43.2l.5,53.2.5,28.3,1.4,57,.5,17.4h29l.5,55.5.9,45.6,1.4,53.3.5,1.4h68l.5-.6.5-55.5.9-46.1,1.4-53.8h0"/>
+        </g>
+      </g>
+      <g id="patch_33">
+        <path class="cls-2" d="M252,833v-346.5"/>
+      </g>
+      <g id="patch_34">
+        <path class="cls-2" d="M711.5,833v-346.5"/>
+      </g>
+      <g id="patch_35">
+        <path class="cls-2" d="M252,833h459.5"/>
+      </g>
+      <g id="patch_36">
+        <path class="cls-2" d="M252,486.5h459.5"/>
+      </g>
+      <g id="legend_4">
+        <g id="patch_37">
+          <path class="cls-12" d="M440,819.3h252.3c3.7,0,5.5-1.8,5.5-5.5v-36.1c0-3.7-1.8-5.5-5.5-5.5h-252.3c-3.7,0-5.5,1.8-5.5,5.5v36.1c0,3.7,1.8,5.5,5.5,5.5Z"/>
+        </g>
+        <g id="line2d_59">
+          <path class="cls-5" d="M445.5,793.2h55"/>
+        </g>
+        <g id="text_30">
+          <g>
+            <path id="ArialMT-54-4" data-name="ArialMT-54" class="cls-117" d="M529.6,802.8v-17.4h-6.5v-2.3h15.6v2.3h-6.5v17.4h-2.6Z"/>
+            <path id="ArialMT-45-2" data-name="ArialMT-45" class="cls-117" d="M541.4,802.8v-19.7h14.2v2.3h-11.6v6h10.9v2.3h-10.9v6.7h12.1v2.3h-14.7Z"/>
+            <path id="ArialMT-3d-2" data-name="ArialMT-3d" class="cls-117" d="M572.1,791.2h-13v-2.3h13v2.3ZM572.1,797.2h-13v-2.3h13v2.3Z"/>
+            <path id="ArialMT-20-3" data-name="ArialMT-20" class="cls-117" d="M573.7,802.8"/>
+            <path id="ArialMT-37-2" data-name="ArialMT-37" class="cls-117" d="M582.6,785.7v-2.3h12.7v1.9c-1.3,1.3-2.5,3.1-3.7,5.3-1.2,2.2-2.2,4.5-2.8,6.8-.5,1.6-.8,3.5-.9,5.4h-2.5c0-1.5.3-3.4.9-5.6.6-2.2,1.4-4.3,2.5-6.3s2.2-3.8,3.5-5.1h-9.6Z"/>
+            <path id="ArialMT-31-4" data-name="ArialMT-31" class="cls-117" d="M606.8,802.8h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+            <path id="ArialMT-2e-8" data-name="ArialMT-2e" class="cls-117" d="M614.4,802.8v-2.8h2.8v2.8h-2.8Z"/>
+            <path id="ArialMT-30-32" data-name="ArialMT-30" class="cls-117" d="M620.7,793.1c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM623.2,793.1c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            <path id="ArialMT-38-3" data-name="ArialMT-38" class="cls-117" d="M639.7,792.2c-1-.4-1.7-.9-2.2-1.6-.5-.7-.7-1.5-.7-2.4,0-1.4.5-2.6,1.5-3.6,1-1,2.4-1.5,4.1-1.5s3.1.5,4.2,1.5c1,1,1.6,2.2,1.6,3.6s-.2,1.7-.7,2.4c-.5.7-1.2,1.2-2.2,1.6,1.2.4,2.1,1,2.8,1.9.6.9.9,1.9.9,3.1s-.6,3.1-1.8,4.2c-1.2,1.1-2.8,1.7-4.7,1.7s-3.5-.6-4.7-1.7c-1.2-1.2-1.8-2.6-1.8-4.3s.3-2.4,1-3.2c.7-.9,1.6-1.5,2.8-1.8ZM639.2,788.1c0,.9.3,1.7.9,2.3.6.6,1.4.9,2.3.9s1.7-.3,2.3-.9c.6-.6.9-1.3.9-2.2s-.3-1.6-.9-2.2c-.6-.6-1.4-.9-2.3-.9s-1.7.3-2.3.9c-.6.6-.9,1.3-.9,2.1ZM638.4,797.1c0,.7.2,1.4.5,2s.8,1.1,1.5,1.5c.6.4,1.3.5,2.1.5,1.2,0,2.1-.4,2.9-1.1.8-.7,1.1-1.7,1.1-2.8s-.4-2.1-1.2-2.9c-.8-.8-1.7-1.1-2.9-1.1s-2.1.4-2.8,1.1c-.7.8-1.1,1.7-1.1,2.8Z"/>
+            <path id="ArialMT-6d-4" data-name="ArialMT-6d" class="cls-117" d="M651.9,802.8v-14.3h2.2v2c.4-.7,1-1.3,1.8-1.7.7-.4,1.6-.6,2.5-.6s1.9.2,2.6.7,1.2,1.1,1.4,1.8c1.1-1.7,2.6-2.5,4.4-2.5s2.5.4,3.3,1.2c.8.8,1.1,2,1.1,3.6v9.8h-2.4v-9c0-1,0-1.7-.2-2.1-.2-.4-.4-.8-.9-1-.4-.3-.9-.4-1.4-.4-1,0-1.8.3-2.5,1-.7.7-1,1.7-1,3.2v8.3h-2.4v-9.3c0-1.1-.2-1.9-.6-2.4-.4-.5-1-.8-1.9-.8s-1.3.2-1.9.5c-.6.4-1,.9-1.3,1.6-.3.7-.4,1.7-.4,3v7.4h-2.4Z"/>
+            <path id="ArialMT-73-3" data-name="ArialMT-73" class="cls-117" d="M673.9,798.6l2.4-.4c.1,1,.5,1.7,1.1,2.2.6.5,1.5.8,2.6.8s1.9-.2,2.5-.7c.5-.5.8-1,.8-1.6s-.2-1-.7-1.3c-.3-.2-1.2-.5-2.5-.8-1.8-.4-3-.8-3.7-1.2s-1.2-.8-1.6-1.4c-.4-.6-.5-1.2-.5-1.9s.1-1.2.4-1.8c.3-.5.7-1,1.2-1.4.4-.3.9-.5,1.5-.7.7-.2,1.3-.3,2.1-.3,1.1,0,2.1.2,2.9.5.8.3,1.5.8,1.9,1.3.4.6.7,1.3.8,2.2l-2.4.3c-.1-.7-.4-1.3-.9-1.7-.5-.4-1.2-.6-2.2-.6s-1.9.2-2.4.6c-.5.4-.7.8-.7,1.3s0,.6.3.8c.2.3.5.5.9.6.2,0,1,.3,2.1.6,1.7.5,2.9.8,3.6,1.1.7.3,1.2.7,1.6,1.3.4.6.6,1.2.6,2.1s-.2,1.6-.7,2.3c-.5.7-1.1,1.3-2,1.7-.9.4-1.9.6-3,.6-1.9,0-3.3-.4-4.2-1.2-1-.8-1.6-1.9-1.9-3.4Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="patch_38">
+        <path class="cls-13" d="M803.4,833h459.5v-346.5h-459.5v346.5Z"/>
+      </g>
+      <g id="matplotlib.axis_9">
+        <g id="xtick_21">
+          <g id="line2d_60">
+            <g class="cls-44">
+              <path class="cls-6" d="M803.4,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_31">
+            <path id="ArialMT-30-33" data-name="ArialMT-30" class="cls-117" d="M796.9,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM799.4,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="xtick_22">
+          <g id="line2d_61">
+            <g class="cls-47">
+              <path class="cls-6" d="M918.3,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_32">
+            <g>
+              <path id="ArialMT-32-10" data-name="ArialMT-32" class="cls-117" d="M916.9,859.9v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-34" data-name="ArialMT-30" class="cls-117" d="M919.5,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM921.9,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_23">
+          <g id="line2d_62">
+            <g class="cls-49">
+              <path class="cls-6" d="M1033.2,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_33">
+            <g>
+              <path id="ArialMT-34-7" data-name="ArialMT-34" class="cls-117" d="M1026.8,862.2v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM1026.8,855.3v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30-35" data-name="ArialMT-30" class="cls-117" d="M1034.3,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1036.8,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_24">
+          <g id="line2d_63">
+            <g class="cls-48">
+              <path class="cls-6" d="M1148.1,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_34">
+            <g>
+              <path id="ArialMT-36-4" data-name="ArialMT-36" class="cls-117" d="M1146.5,847.4l-2.4.2c-.2-.9-.5-1.6-.9-2.1-.7-.7-1.5-1-2.4-1s-1.4.2-2,.6c-.8.6-1.4,1.4-1.8,2.4-.4,1.1-.7,2.6-.7,4.6.6-.9,1.3-1.5,2.1-2s1.7-.6,2.6-.6c1.6,0,3,.6,4.1,1.8,1.1,1.2,1.7,2.7,1.7,4.6s-.3,2.4-.8,3.4c-.5,1.1-1.3,1.9-2.2,2.4-.9.6-2,.8-3.2.8-2,0-3.7-.7-4.9-2.2-1.3-1.5-1.9-3.9-1.9-7.3s.7-6.6,2.1-8.3c1.2-1.5,2.9-2.3,5-2.3s2.8.4,3.8,1.3c1,.9,1.6,2.1,1.8,3.6ZM1136.6,855.8c0,.8.2,1.6.5,2.4.4.8.8,1.3,1.5,1.7.6.4,1.3.6,2,.6,1,0,1.9-.4,2.6-1.2.7-.8,1.1-1.9,1.1-3.4s-.4-2.4-1.1-3.2c-.7-.8-1.6-1.2-2.7-1.2s-2,.4-2.8,1.2c-.8.8-1.1,1.8-1.1,3.1Z"/>
+              <path id="ArialMT-30-36" data-name="ArialMT-30" class="cls-117" d="M1149.2,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1151.7,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_25">
+          <g id="line2d_64">
+            <g class="cls-46">
+              <path class="cls-6" d="M1263,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_35">
+            <g>
+              <path id="ArialMT-38-4" data-name="ArialMT-38" class="cls-117" d="M1252.5,851.6c-1-.4-1.7-.9-2.2-1.6-.5-.7-.7-1.5-.7-2.4,0-1.4.5-2.6,1.5-3.6,1-1,2.4-1.5,4.1-1.5s3.1.5,4.2,1.5c1,1,1.6,2.2,1.6,3.6s-.2,1.7-.7,2.4c-.5.7-1.2,1.2-2.2,1.6,1.2.4,2.1,1,2.8,1.9.6.9.9,1.9.9,3.1s-.6,3.1-1.8,4.2c-1.2,1.1-2.8,1.7-4.7,1.7s-3.5-.6-4.7-1.7c-1.2-1.2-1.8-2.6-1.8-4.3s.3-2.4,1-3.2c.7-.9,1.6-1.5,2.8-1.8ZM1252.1,847.5c0,.9.3,1.7.9,2.3.6.6,1.4.9,2.3.9s1.7-.3,2.3-.9c.6-.6.9-1.3.9-2.2s-.3-1.6-.9-2.2c-.6-.6-1.4-.9-2.3-.9s-1.7.3-2.3.9c-.6.6-.9,1.3-.9,2.1ZM1251.3,856.5c0,.7.2,1.4.5,2s.8,1.1,1.5,1.5c.6.4,1.3.5,2.1.5,1.2,0,2.1-.4,2.9-1.1.8-.7,1.1-1.7,1.1-2.8s-.4-2.1-1.2-2.9c-.8-.8-1.7-1.1-2.9-1.1s-2.1.4-2.8,1.1c-.7.8-1.1,1.7-1.1,2.8Z"/>
+              <path id="ArialMT-30-37" data-name="ArialMT-30" class="cls-117" d="M1264.1,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1266.6,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="text_36">
+          <g>
+            <path id="ArialMT-54-5" data-name="ArialMT-54" class="cls-117" d="M975.7,893.2v-18.9h-7.1v-2.5h17v2.5h-7.1v18.9h-2.8Z"/>
+            <path id="ArialMT-69-2" data-name="ArialMT-69" class="cls-117" d="M987.1,874.7v-3h2.6v3h-2.6ZM987.1,893.2v-15.6h2.6v15.6h-2.6Z"/>
+            <path id="ArialMT-6d-5" data-name="ArialMT-6d" class="cls-117" d="M993.8,893.2v-15.6h2.4v2.2c.5-.8,1.1-1.4,1.9-1.8.8-.5,1.7-.7,2.8-.7s2.1.2,2.8.7,1.3,1.1,1.6,2c1.2-1.8,2.8-2.7,4.8-2.7s2.7.4,3.6,1.3c.8.9,1.2,2.2,1.2,3.9v10.7h-2.6v-9.8c0-1.1,0-1.8-.3-2.3-.2-.5-.5-.8-.9-1.1-.4-.3-1-.4-1.6-.4-1.1,0-2,.4-2.7,1.1-.7.7-1.1,1.9-1.1,3.5v9h-2.6v-10.1c0-1.2-.2-2-.6-2.6-.4-.6-1.1-.9-2.1-.9s-1.4.2-2.1.6c-.6.4-1.1,1-1.4,1.7-.3.8-.4,1.8-.4,3.2v8.1h-2.6Z"/>
+            <path id="ArialMT-65-2" data-name="ArialMT-65" class="cls-117" d="M1029.4,888.2l2.7.3c-.4,1.6-1.2,2.8-2.4,3.7-1.2.9-2.6,1.3-4.5,1.3s-4.1-.7-5.4-2.1c-1.3-1.4-2-3.4-2-5.9s.7-4.7,2-6.1c1.4-1.4,3.1-2.2,5.2-2.2s3.8.7,5.1,2.1,2,3.4,2,6,0,.4,0,.7h-11.6c0,1.7.6,3,1.4,3.9.9.9,2,1.4,3.3,1.4s1.8-.3,2.5-.8c.7-.5,1.2-1.3,1.6-2.4ZM1020.8,883.9h8.7c-.1-1.3-.4-2.3-1-2.9-.8-1-1.9-1.5-3.3-1.5s-2.2.4-3.1,1.2-1.3,1.9-1.4,3.3Z"/>
+            <path id="ArialMT-20-4" data-name="ArialMT-20" class="cls-117" d="M1033.5,893.2"/>
+            <path id="ArialMT-5b-2" data-name="ArialMT-5b" class="cls-117" d="M1043.8,899.1v-27.4h5.8v2.2h-3.2v23.1h3.2v2.2h-5.8Z"/>
+            <path id="ArialMT-6d-6" data-name="ArialMT-6d" class="cls-117" d="M1052.1,893.2v-15.6h2.4v2.2c.5-.8,1.1-1.4,1.9-1.8.8-.5,1.7-.7,2.8-.7s2.1.2,2.8.7,1.3,1.1,1.6,2c1.2-1.8,2.8-2.7,4.8-2.7s2.7.4,3.6,1.3c.8.9,1.2,2.2,1.2,3.9v10.7h-2.6v-9.8c0-1.1,0-1.8-.3-2.3-.2-.5-.5-.8-.9-1.1-.4-.3-1-.4-1.6-.4-1.1,0-2,.4-2.7,1.1-.7.7-1.1,1.9-1.1,3.5v9h-2.6v-10.1c0-1.2-.2-2-.6-2.6-.4-.6-1.1-.9-2.1-.9s-1.4.2-2.1.6c-.6.4-1.1,1-1.4,1.7-.3.8-.4,1.8-.4,3.2v8.1h-2.6Z"/>
+            <path id="ArialMT-73-4" data-name="ArialMT-73" class="cls-117" d="M1076.1,888.5l2.6-.4c.1,1,.6,1.8,1.2,2.4.7.6,1.6.8,2.8.8s2.1-.2,2.7-.7c.6-.5.9-1.1.9-1.7s-.3-1.1-.8-1.4c-.4-.2-1.3-.5-2.7-.9-1.9-.5-3.3-.9-4-1.3s-1.3-.8-1.7-1.5c-.4-.6-.6-1.3-.6-2.1s.2-1.3.5-1.9c.3-.6.8-1.1,1.3-1.5.4-.3,1-.6,1.7-.8.7-.2,1.5-.3,2.3-.3,1.2,0,2.3.2,3.2.5.9.4,1.6.8,2,1.4.4.6.7,1.4.9,2.4l-2.6.4c-.1-.8-.5-1.4-1-1.9-.6-.5-1.4-.7-2.4-.7s-2.1.2-2.6.6c-.5.4-.8.9-.8,1.4s.1.6.3.9c.2.3.6.5,1,.7.3,0,1,.3,2.3.7,1.9.5,3.2.9,3.9,1.2.7.3,1.3.8,1.7,1.4.4.6.6,1.4.6,2.3s-.3,1.7-.8,2.5c-.5.8-1.3,1.4-2.2,1.8-1,.4-2.1.6-3.3.6-2,0-3.6-.4-4.6-1.3-1.1-.8-1.7-2.1-2-3.7Z"/>
+            <path id="ArialMT-5d-2" data-name="ArialMT-5d" class="cls-117" d="M1096.5,899.1h-5.8v-2.2h3.2v-23.1h-3.2v-2.2h5.8v27.4Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_10">
+        <g id="ytick_22">
+          <g id="line2d_65">
+            <g class="cls-35">
+              <path class="cls-6" d="M803.4,817.3h459.5"/>
+            </g>
+          </g>
+          <g id="text_37">
+            <g>
+              <path id="ArialMT-2212-7" data-name="ArialMT-2212" class="cls-117" d="M746.5,818.6h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-32-11" data-name="ArialMT-32" class="cls-117" d="M761.9,824.8v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-38" data-name="ArialMT-30" class="cls-117" d="M764.5,817.4c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,817.4c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-39" data-name="ArialMT-30" class="cls-117" d="M779.8,817.4c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,817.4c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_23">
+          <g id="line2d_66">
+            <g class="cls-33">
+              <path class="cls-6" d="M803.4,738.5h459.5"/>
+            </g>
+          </g>
+          <g id="text_38">
+            <g>
+              <path id="ArialMT-2212-8" data-name="ArialMT-2212" class="cls-117" d="M746.5,739.8h-13v-2.3h13v2.3Z"/>
+              <path id="ArialMT-31-5" data-name="ArialMT-31" class="cls-117" d="M758.3,748.4h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+              <path id="ArialMT-30-40" data-name="ArialMT-30" class="cls-117" d="M764.5,738.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,738.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-41" data-name="ArialMT-30" class="cls-117" d="M779.8,738.7c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,738.7c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_24">
+          <g id="line2d_67">
+            <g class="cls-45">
+              <path class="cls-6" d="M803.4,659.8h459.5"/>
+            </g>
+          </g>
+          <g id="text_39">
+            <path id="ArialMT-30-42" data-name="ArialMT-30" class="cls-117" d="M779.8,659.9c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,659.9c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="ytick_25">
+          <g id="line2d_68">
+            <g class="cls-34">
+              <path class="cls-6" d="M803.4,581h459.5"/>
+            </g>
+          </g>
+          <g id="text_40">
+            <g>
+              <path id="ArialMT-31-6" data-name="ArialMT-31" class="cls-117" d="M758.3,590.9h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+              <path id="ArialMT-30-43" data-name="ArialMT-30" class="cls-117" d="M764.5,581.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,581.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-44" data-name="ArialMT-30" class="cls-117" d="M779.8,581.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,581.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_26">
+          <g id="line2d_69">
+            <g class="cls-36">
+              <path class="cls-6" d="M803.4,502.3h459.5"/>
+            </g>
+          </g>
+          <g id="text_41">
+            <g>
+              <path id="ArialMT-32-12" data-name="ArialMT-32" class="cls-117" d="M761.9,509.8v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-45" data-name="ArialMT-30" class="cls-117" d="M764.5,502.4c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM767,502.4c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-30-46" data-name="ArialMT-30" class="cls-117" d="M779.8,502.4c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM782.3,502.4c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="patch_39">
+        <g class="cls-93">
+          <path class="cls-8" d="M803.4,833h17.2v-346.5h-17.2v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_40">
+        <g class="cls-95">
+          <path class="cls-10" d="M820.7,833h275.9v-346.5h-275.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_41">
+        <g class="cls-96">
+          <path class="cls-9" d="M1096.6,833h114.9v-346.5h-114.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="line2d_70">
+        <g class="cls-97">
+          <path class="cls-4" d="M803.4,659.8h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_71">
+        <g class="cls-98">
+          <path class="cls-7" d="M803.4,502.3h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_72">
+        <g class="cls-90">
+          <path class="cls-7" d="M803.4,817.3h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_73">
+        <g class="cls-91">
+          <path class="cls-5" d="M803.4,659.8h17l.5,156.1.5-81.8.5-18.1.5-3.7.5-2.3.5-1.6.5-47.5.5-1h114.9l.5-119.4.5,21.3.5,40.7.5,4.2.5,2.6.5,1.8.9,2.3.9,1.5.9,1,1.4,1.1.5.3.5,38.4.5,4.2h42.7l.5,149.7.5-70,.5-22.9.5-3.8.5-2.4.5-1.6.5-48.9h28.5l.5,156.2.5-83.4.5-17,.5-3.6.5-2.3.5-1.6.5-44.1.5-4h67.6l.5-1.6.5-154.4.5,82.4.5,17.5.5,3.6.5,2.3.5,1.4h0"/>
+        </g>
+      </g>
+      <g id="patch_42">
+        <path class="cls-2" d="M803.4,833v-346.5"/>
+      </g>
+      <g id="patch_43">
+        <path class="cls-2" d="M1263,833v-346.5"/>
+      </g>
+      <g id="patch_44">
+        <path class="cls-2" d="M803.4,833h459.5"/>
+      </g>
+      <g id="patch_45">
+        <path class="cls-2" d="M803.4,486.5h459.5"/>
+      </g>
+      <g id="legend_5">
+        <g id="patch_46">
+          <path class="cls-12" d="M1232.7,819.3h11c3.7,0,5.5-1.8,5.5-5.5v-11c0-3.7-1.8-5.5-5.5-5.5h-11c-3.7,0-5.5,1.8-5.5,5.5v11c0,3.7,1.8,5.5,5.5,5.5Z"/>
+        </g>
+      </g>
+      <g id="patch_47">
+        <path class="cls-13" d="M1354.9,833h459.5v-346.5h-459.5v346.5Z"/>
+      </g>
+      <g id="matplotlib.axis_11">
+        <g id="xtick_26">
+          <g id="line2d_74">
+            <g class="cls-92">
+              <path class="cls-6" d="M1354.9,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_42">
+            <path id="ArialMT-30-47" data-name="ArialMT-30" class="cls-117" d="M1348.4,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1350.9,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+          </g>
+        </g>
+        <g id="xtick_27">
+          <g id="line2d_75">
+            <g class="cls-99">
+              <path class="cls-6" d="M1469.8,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_43">
+            <g>
+              <path id="ArialMT-32-13" data-name="ArialMT-32" class="cls-117" d="M1468.3,859.9v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+              <path id="ArialMT-30-48" data-name="ArialMT-30" class="cls-117" d="M1470.9,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1473.4,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_28">
+          <g id="line2d_76">
+            <g class="cls-94">
+              <path class="cls-6" d="M1584.6,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_44">
+            <g>
+              <path id="ArialMT-34-8" data-name="ArialMT-34" class="cls-117" d="M1578.2,862.2v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM1578.2,855.3v-8.9l-6.2,8.9h6.2Z"/>
+              <path id="ArialMT-30-49" data-name="ArialMT-30" class="cls-117" d="M1585.8,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1588.3,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_29">
+          <g id="line2d_77">
+            <g class="cls-84">
+              <path class="cls-6" d="M1699.5,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_45">
+            <g>
+              <path id="ArialMT-36-5" data-name="ArialMT-36" class="cls-117" d="M1697.9,847.4l-2.4.2c-.2-.9-.5-1.6-.9-2.1-.7-.7-1.5-1-2.4-1s-1.4.2-2,.6c-.8.6-1.4,1.4-1.8,2.4-.4,1.1-.7,2.6-.7,4.6.6-.9,1.3-1.5,2.1-2s1.7-.6,2.6-.6c1.6,0,3,.6,4.1,1.8,1.1,1.2,1.7,2.7,1.7,4.6s-.3,2.4-.8,3.4c-.5,1.1-1.3,1.9-2.2,2.4-.9.6-2,.8-3.2.8-2,0-3.7-.7-4.9-2.2-1.3-1.5-1.9-3.9-1.9-7.3s.7-6.6,2.1-8.3c1.2-1.5,2.9-2.3,5-2.3s2.8.4,3.8,1.3c1,.9,1.6,2.1,1.8,3.6ZM1688,855.8c0,.8.2,1.6.5,2.4.4.8.8,1.3,1.5,1.7.6.4,1.3.6,2,.6,1,0,1.9-.4,2.6-1.2.7-.8,1.1-1.9,1.1-3.4s-.4-2.4-1.1-3.2c-.7-.8-1.6-1.2-2.7-1.2s-2,.4-2.8,1.2c-.8.8-1.1,1.8-1.1,3.1Z"/>
+              <path id="ArialMT-30-50" data-name="ArialMT-30" class="cls-117" d="M1700.7,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1703.1,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_30">
+          <g id="line2d_78">
+            <g class="cls-102">
+              <path class="cls-6" d="M1814.4,833v-346.5"/>
+            </g>
+          </g>
+          <g id="text_46">
+            <g>
+              <path id="ArialMT-38-5" data-name="ArialMT-38" class="cls-117" d="M1804,851.6c-1-.4-1.7-.9-2.2-1.6-.5-.7-.7-1.5-.7-2.4,0-1.4.5-2.6,1.5-3.6,1-1,2.4-1.5,4.1-1.5s3.1.5,4.2,1.5c1,1,1.6,2.2,1.6,3.6s-.2,1.7-.7,2.4c-.5.7-1.2,1.2-2.2,1.6,1.2.4,2.1,1,2.8,1.9.6.9.9,1.9.9,3.1s-.6,3.1-1.8,4.2c-1.2,1.1-2.8,1.7-4.7,1.7s-3.5-.6-4.7-1.7c-1.2-1.2-1.8-2.6-1.8-4.3s.3-2.4,1-3.2c.7-.9,1.6-1.5,2.8-1.8ZM1803.5,847.5c0,.9.3,1.7.9,2.3.6.6,1.4.9,2.3.9s1.7-.3,2.3-.9c.6-.6.9-1.3.9-2.2s-.3-1.6-.9-2.2c-.6-.6-1.4-.9-2.3-.9s-1.7.3-2.3.9c-.6.6-.9,1.3-.9,2.1ZM1802.7,856.5c0,.7.2,1.4.5,2s.8,1.1,1.5,1.5c.6.4,1.3.5,2.1.5,1.2,0,2.1-.4,2.9-1.1.8-.7,1.1-1.7,1.1-2.8s-.4-2.1-1.2-2.9c-.8-.8-1.7-1.1-2.9-1.1s-2.1.4-2.8,1.1c-.7.8-1.1,1.7-1.1,2.8Z"/>
+              <path id="ArialMT-30-51" data-name="ArialMT-30" class="cls-117" d="M1815.5,852.5c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1818,852.5c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="text_47">
+          <g>
+            <path id="ArialMT-54-6" data-name="ArialMT-54" class="cls-117" d="M1527.1,893.2v-18.9h-7.1v-2.5h17v2.5h-7.1v18.9h-2.8Z"/>
+            <path id="ArialMT-69-3" data-name="ArialMT-69" class="cls-117" d="M1538.6,874.7v-3h2.6v3h-2.6ZM1538.6,893.2v-15.6h2.6v15.6h-2.6Z"/>
+            <path id="ArialMT-6d-7" data-name="ArialMT-6d" class="cls-117" d="M1545.2,893.2v-15.6h2.4v2.2c.5-.8,1.1-1.4,1.9-1.8.8-.5,1.7-.7,2.8-.7s2.1.2,2.8.7,1.3,1.1,1.6,2c1.2-1.8,2.8-2.7,4.8-2.7s2.7.4,3.6,1.3c.8.9,1.2,2.2,1.2,3.9v10.7h-2.6v-9.8c0-1.1,0-1.8-.3-2.3-.2-.5-.5-.8-.9-1.1-.4-.3-1-.4-1.6-.4-1.1,0-2,.4-2.7,1.1-.7.7-1.1,1.9-1.1,3.5v9h-2.6v-10.1c0-1.2-.2-2-.6-2.6-.4-.6-1.1-.9-2.1-.9s-1.4.2-2.1.6c-.6.4-1.1,1-1.4,1.7-.3.8-.4,1.8-.4,3.2v8.1h-2.6Z"/>
+            <path id="ArialMT-65-3" data-name="ArialMT-65" class="cls-117" d="M1580.9,888.2l2.7.3c-.4,1.6-1.2,2.8-2.4,3.7-1.2.9-2.6,1.3-4.5,1.3s-4.1-.7-5.4-2.1c-1.3-1.4-2-3.4-2-5.9s.7-4.7,2-6.1c1.4-1.4,3.1-2.2,5.2-2.2s3.8.7,5.1,2.1,2,3.4,2,6,0,.4,0,.7h-11.6c0,1.7.6,3,1.4,3.9.9.9,2,1.4,3.3,1.4s1.8-.3,2.5-.8c.7-.5,1.2-1.3,1.6-2.4ZM1572.2,883.9h8.7c-.1-1.3-.4-2.3-1-2.9-.8-1-1.9-1.5-3.3-1.5s-2.2.4-3.1,1.2-1.3,1.9-1.4,3.3Z"/>
+            <path id="ArialMT-20-5" data-name="ArialMT-20" class="cls-117" d="M1584.9,893.2"/>
+            <path id="ArialMT-5b-3" data-name="ArialMT-5b" class="cls-117" d="M1595.3,899.1v-27.4h5.8v2.2h-3.2v23.1h3.2v2.2h-5.8Z"/>
+            <path id="ArialMT-6d-8" data-name="ArialMT-6d" class="cls-117" d="M1603.6,893.2v-15.6h2.4v2.2c.5-.8,1.1-1.4,1.9-1.8.8-.5,1.7-.7,2.8-.7s2.1.2,2.8.7,1.3,1.1,1.6,2c1.2-1.8,2.8-2.7,4.8-2.7s2.7.4,3.6,1.3c.8.9,1.2,2.2,1.2,3.9v10.7h-2.6v-9.8c0-1.1,0-1.8-.3-2.3-.2-.5-.5-.8-.9-1.1-.4-.3-1-.4-1.6-.4-1.1,0-2,.4-2.7,1.1-.7.7-1.1,1.9-1.1,3.5v9h-2.6v-10.1c0-1.2-.2-2-.6-2.6-.4-.6-1.1-.9-2.1-.9s-1.4.2-2.1.6c-.6.4-1.1,1-1.4,1.7-.3.8-.4,1.8-.4,3.2v8.1h-2.6Z"/>
+            <path id="ArialMT-73-5" data-name="ArialMT-73" class="cls-117" d="M1627.5,888.5l2.6-.4c.1,1,.6,1.8,1.2,2.4.7.6,1.6.8,2.8.8s2.1-.2,2.7-.7c.6-.5.9-1.1.9-1.7s-.3-1.1-.8-1.4c-.4-.2-1.3-.5-2.7-.9-1.9-.5-3.3-.9-4-1.3s-1.3-.8-1.7-1.5c-.4-.6-.6-1.3-.6-2.1s.2-1.3.5-1.9c.3-.6.8-1.1,1.3-1.5.4-.3,1-.6,1.7-.8.7-.2,1.5-.3,2.3-.3,1.2,0,2.3.2,3.2.5.9.4,1.6.8,2,1.4.4.6.7,1.4.9,2.4l-2.6.4c-.1-.8-.5-1.4-1-1.9-.6-.5-1.4-.7-2.4-.7s-2.1.2-2.6.6c-.5.4-.8.9-.8,1.4s.1.6.3.9c.2.3.6.5,1,.7.3,0,1,.3,2.3.7,1.9.5,3.2.9,3.9,1.2.7.3,1.3.8,1.7,1.4.4.6.6,1.4.6,2.3s-.3,1.7-.8,2.5c-.5.8-1.3,1.4-2.2,1.8-1,.4-2.1.6-3.3.6-2,0-3.6-.4-4.6-1.3-1.1-.8-1.7-2.1-2-3.7Z"/>
+            <path id="ArialMT-5d-3" data-name="ArialMT-5d" class="cls-117" d="M1648,899.1h-5.8v-2.2h3.2v-23.1h-3.2v-2.2h5.8v27.4Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_12">
+        <g id="ytick_27">
+          <g id="line2d_79">
+            <g class="cls-100">
+              <path class="cls-6" d="M1354.9,833h459.5"/>
+            </g>
+          </g>
+          <g id="text_48">
+            <g>
+              <path id="ArialMT-30-52" data-name="ArialMT-30" class="cls-117" d="M1308.3,833.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,833.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-9" data-name="ArialMT-2e" class="cls-117" d="M1324.9,842.9v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-30-53" data-name="ArialMT-30" class="cls-117" d="M1331.2,833.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1333.7,833.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_28">
+          <g id="line2d_80">
+            <g class="cls-86">
+              <path class="cls-6" d="M1354.9,770h459.5"/>
+            </g>
+          </g>
+          <g id="text_49">
+            <g>
+              <path id="ArialMT-30-54" data-name="ArialMT-30" class="cls-117" d="M1308.3,770.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,770.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-10" data-name="ArialMT-2e" class="cls-117" d="M1324.9,779.9v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-32-14" data-name="ArialMT-32" class="cls-117" d="M1343.9,777.6v2.3h-13c0-.6,0-1.1.3-1.7.3-.9.9-1.8,1.6-2.6.7-.9,1.8-1.9,3.2-3,2.1-1.8,3.6-3.1,4.3-4.2.8-1,1.1-2,1.1-2.9s-.3-1.8-1-2.4c-.7-.7-1.6-1-2.7-1s-2.1.3-2.8,1c-.7.7-1.1,1.7-1.1,2.9l-2.5-.3c.2-1.9.8-3.3,1.9-4.2,1.1-1,2.6-1.5,4.5-1.5s3.4.5,4.5,1.6c1.1,1,1.7,2.3,1.7,3.9s-.2,1.6-.5,2.3c-.3.8-.9,1.6-1.6,2.4s-2,2-3.7,3.5c-1.5,1.2-2.4,2-2.8,2.5-.4.4-.7.9-1,1.3h9.7Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_29">
+          <g id="line2d_81">
+            <g class="cls-88">
+              <path class="cls-6" d="M1354.9,707h459.5"/>
+            </g>
+          </g>
+          <g id="text_50">
+            <g>
+              <path id="ArialMT-30-55" data-name="ArialMT-30" class="cls-117" d="M1308.3,707.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,707.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-11" data-name="ArialMT-2e" class="cls-117" d="M1324.9,716.9v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-34-9" data-name="ArialMT-34" class="cls-117" d="M1339,716.9v-4.7h-8.5v-2.2l9-12.8h2v12.8h2.7v2.2h-2.7v4.7h-2.4ZM1339,710v-8.9l-6.2,8.9h6.2Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_30">
+          <g id="line2d_82">
+            <g class="cls-85">
+              <path class="cls-6" d="M1354.9,644h459.5"/>
+            </g>
+          </g>
+          <g id="text_51">
+            <g>
+              <path id="ArialMT-30-56" data-name="ArialMT-30" class="cls-117" d="M1308.3,644.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,644.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-12" data-name="ArialMT-2e" class="cls-117" d="M1324.9,653.9v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-36-6" data-name="ArialMT-36" class="cls-117" d="M1343.8,639l-2.4.2c-.2-.9-.5-1.6-.9-2.1-.7-.7-1.5-1-2.4-1s-1.4.2-2,.6c-.8.6-1.4,1.4-1.8,2.4-.4,1.1-.7,2.6-.7,4.6.6-.9,1.3-1.5,2.1-2s1.7-.6,2.6-.6c1.6,0,3,.6,4.1,1.8,1.1,1.2,1.7,2.7,1.7,4.6s-.3,2.4-.8,3.4c-.5,1.1-1.3,1.9-2.2,2.4-.9.6-2,.8-3.2.8-2,0-3.7-.7-4.9-2.2-1.3-1.5-1.9-3.9-1.9-7.3s.7-6.6,2.1-8.3c1.2-1.5,2.9-2.3,5-2.3s2.8.4,3.8,1.3c1,.9,1.6,2.1,1.8,3.6ZM1333.9,647.5c0,.8.2,1.6.5,2.4.4.8.8,1.3,1.5,1.7.6.4,1.3.6,2,.6,1,0,1.9-.4,2.6-1.2.7-.8,1.1-1.9,1.1-3.4s-.4-2.4-1.1-3.2c-.7-.8-1.6-1.2-2.7-1.2s-2,.4-2.8,1.2c-.8.8-1.1,1.8-1.1,3.1Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_31">
+          <g id="line2d_83">
+            <g class="cls-89">
+              <path class="cls-6" d="M1354.9,581h459.5"/>
+            </g>
+          </g>
+          <g id="text_52">
+            <g>
+              <path id="ArialMT-30-57" data-name="ArialMT-30" class="cls-117" d="M1308.3,581.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1310.8,581.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+              <path id="ArialMT-2e-13" data-name="ArialMT-2e" class="cls-117" d="M1324.9,590.9v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-38-6" data-name="ArialMT-38" class="cls-117" d="M1334.9,580.2c-1-.4-1.7-.9-2.2-1.6-.5-.7-.7-1.5-.7-2.4,0-1.4.5-2.6,1.5-3.6,1-1,2.4-1.5,4.1-1.5s3.1.5,4.2,1.5c1,1,1.6,2.2,1.6,3.6s-.2,1.7-.7,2.4c-.5.7-1.2,1.2-2.2,1.6,1.2.4,2.1,1,2.8,1.9.6.9.9,1.9.9,3.1s-.6,3.1-1.8,4.2c-1.2,1.1-2.8,1.7-4.7,1.7s-3.5-.6-4.7-1.7c-1.2-1.2-1.8-2.6-1.8-4.3s.3-2.4,1-3.2c.7-.9,1.6-1.5,2.8-1.8ZM1334.5,576.1c0,.9.3,1.7.9,2.3.6.6,1.4.9,2.3.9s1.7-.3,2.3-.9c.6-.6.9-1.3.9-2.2s-.3-1.6-.9-2.2c-.6-.6-1.4-.9-2.3-.9s-1.7.3-2.3.9c-.6.6-.9,1.3-.9,2.1ZM1333.7,585.2c0,.7.2,1.4.5,2s.8,1.1,1.5,1.5c.6.4,1.3.5,2.1.5,1.2,0,2.1-.4,2.9-1.1.8-.7,1.1-1.7,1.1-2.8s-.4-2.1-1.2-2.9c-.8-.8-1.7-1.1-2.9-1.1s-2.1.4-2.8,1.1c-.7.8-1.1,1.7-1.1,2.8Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_32">
+          <g id="line2d_84">
+            <g class="cls-101">
+              <path class="cls-6" d="M1354.9,518h459.5"/>
+            </g>
+          </g>
+          <g id="text_53">
+            <g>
+              <path id="ArialMT-31-7" data-name="ArialMT-31" class="cls-117" d="M1317.4,527.9h-2.4v-15.4c-.6.6-1.3,1.1-2.3,1.7s-1.8,1-2.5,1.3v-2.3c1.4-.6,2.5-1.4,3.5-2.3,1-.9,1.7-1.8,2.1-2.6h1.6v19.8Z"/>
+              <path id="ArialMT-2e-14" data-name="ArialMT-2e" class="cls-117" d="M1324.9,527.9v-2.8h2.8v2.8h-2.8Z"/>
+              <path id="ArialMT-30-58" data-name="ArialMT-30" class="cls-117" d="M1331.2,518.2c0-2.3.2-4.2.7-5.6.5-1.4,1.2-2.5,2.1-3.3.9-.8,2.1-1.2,3.6-1.2s2,.2,2.8.6c.8.4,1.5,1,2,1.8.5.8.9,1.8,1.2,2.9.3,1.1.4,2.7.4,4.7s-.2,4.2-.7,5.6c-.5,1.4-1.2,2.5-2.1,3.3-.9.8-2.1,1.2-3.6,1.2s-3.4-.7-4.5-2c-1.3-1.6-1.9-4.3-1.9-8ZM1333.7,518.2c0,3.2.4,5.4,1.1,6.5.8,1.1,1.7,1.6,2.8,1.6s2-.5,2.8-1.6,1.1-3.2,1.1-6.4-.4-5.4-1.1-6.5c-.8-1.1-1.7-1.6-2.8-1.6s-2,.5-2.7,1.4c-.8,1.2-1.2,3.4-1.2,6.6Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="patch_48">
+        <g class="cls-103">
+          <path class="cls-8" d="M1354.9,833h17.2v-346.5h-17.2v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_49">
+        <g class="cls-87">
+          <path class="cls-10" d="M1372.1,833h275.9v-346.5h-275.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="patch_50">
+        <g class="cls-116">
+          <path class="cls-9" d="M1648.1,833h114.9v-346.5h-114.9v346.5Z"/>
+        </g>
+      </g>
+      <g id="line2d_85">
+        <g class="cls-114">
+          <path class="cls-4" d="M1354.9,833h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_86">
+        <g class="cls-113">
+          <path class="cls-7" d="M1354.9,518h459.5"/>
+        </g>
+      </g>
+      <g id="line2d_87">
+        <g class="cls-115">
+          <path class="cls-5" d="M1354.9,833h17l.5-249.2.5-31.5h1.8s.5,73.8.5,73.8l.5,48.2.5,32.6.5,23.2.9,30.4.9,18.5.9,12.2.9,8.4.9,6.1.9,4.6.9,3.5.9,2.8.9,2.2.9,1.8,1.4,2.1,1.4,1.6,1.4,1.3,1.4,1,1.8,1.1,1.8.8,2.3.8,2.8.7,3.2.6,4.1.6,5.5.5,7.4.4,10.6.4,15.6.3,26.2.2h17.9c0,0,.5-190.2.5-190.2l.5-90h2.8s3.7,0,3.7,0l.5,60.9.5,46,.5,31.7.5,23,.9,31,.9,19.7.9,13.5.9,9.7.9,7.3.9,5.6.9,4.4.9,3.5.9,2.9,1.4,3.4,1.4,2.7,1.4,2.1,1.4,1.7,1.4,1.4,1.8,1.5,1.8,1.2,2.3,1.2,2.3.9,2.8.8,3.2.8,4.1.7,5.1.6,3.2.3.5-235,.5-43.8h1.8c0-.1.5,75.9.5,75.9l.5,47.9.5,32.5.5,23.2.9,30.3.9,18.5.9,12.1.9,8.4.9,6.1.9,4.5.9,3.5.9,2.7.9,2.2.9,1.7,1.4,2.1,1.4,1.6,1.4,1.2,1.4,1,1.8,1,1.8.8,2.3.7,2.8.6,3.7.6.5-249.3.5-29h1.8s.5,68.5.5,68.5l.5,49.5.5,33.3.5,23.7.9,30.8.9,18.8.9,12.3.9,8.6.9,6.2.9,4.6.9,3.6.9,2.8.9,2.2.9,1.8,1.4,2.2,1.4,1.7,1.4,1.3,1.4,1.1,1.8,1.1,1.8.9,2.3.8,2.8.8,3.2.7,4.1.6,5.1.5,6.9.5,9.7.4,13.8.3h.5s.5-1.4.5-1.4l.5-248.2.5-30h1.4c0-.1.5-.5.5-.5h0"/>
+        </g>
+      </g>
+      <g id="patch_51">
+        <path class="cls-2" d="M1354.9,833v-346.5"/>
+      </g>
+      <g id="patch_52">
+        <path class="cls-2" d="M1814.4,833v-346.5"/>
+      </g>
+      <g id="patch_53">
+        <path class="cls-2" d="M1354.9,833h459.5"/>
+      </g>
+      <g id="patch_54">
+        <path class="cls-2" d="M1354.9,486.5h459.5"/>
+      </g>
+      <g id="legend_6">
+        <g id="patch_55">
+          <path class="cls-12" d="M1632.3,819.3h162.9c3.7,0,5.5-1.8,5.5-5.5v-36.5c0-3.7-1.8-5.5-5.5-5.5h-162.9c-3.7,0-5.5,1.8-5.5,5.5v36.5c0,3.7,1.8,5.5,5.5,5.5Z"/>
+        </g>
+        <g id="line2d_88">
+          <path class="cls-5" d="M1637.8,793.2h55"/>
+        </g>
+        <g id="text_54">
+          <g>
+            <path id="ArialMT-47" class="cls-117" d="M1726.1,795.1v-2.3h8.3s0,7.3,0,7.3c-1.3,1-2.6,1.8-4,2.3-1.4.5-2.8.8-4.2.8s-3.7-.4-5.3-1.2c-1.6-.8-2.8-2-3.6-3.6-.8-1.6-1.2-3.3-1.2-5.3s.4-3.7,1.2-5.4c.8-1.7,2-2.9,3.5-3.7s3.2-1.2,5.2-1.2,2.7.2,3.9.7c1.2.5,2.1,1.1,2.7,1.9.7.8,1.2,1.9,1.5,3.2l-2.3.6c-.3-1-.7-1.8-1.1-2.4s-1.1-1-1.9-1.4c-.8-.3-1.7-.5-2.7-.5s-2.2.2-3.1.5c-.9.4-1.6.8-2.1,1.4-.5.6-.9,1.2-1.2,1.9-.5,1.2-.8,2.5-.8,4s.3,3.2.9,4.4c.6,1.2,1.5,2.1,2.6,2.6,1.2.6,2.4.9,3.7.9s2.2-.2,3.3-.6c1.1-.4,1.9-.9,2.4-1.4v-3.7h-5.8Z"/>
+            <path id="ArialMT-72" class="cls-117" d="M1738,802.8v-14.3h2.2v2.2c.6-1,1.1-1.7,1.5-2,.5-.3,1-.5,1.6-.5.8,0,1.6.3,2.5.8l-.8,2.2c-.6-.3-1.2-.5-1.8-.5s-1,.2-1.4.5-.7.8-.9,1.3c-.3.9-.4,1.8-.4,2.8v7.5h-2.4Z"/>
+            <path id="ArialMT-4f" class="cls-117" d="M1746.7,793.2c0-3.3.9-5.8,2.6-7.7,1.8-1.9,4-2.8,6.8-2.8s3.5.4,4.9,1.3c1.5.9,2.6,2.1,3.3,3.6.8,1.6,1.2,3.3,1.2,5.3s-.4,3.8-1.2,5.4c-.8,1.6-1.9,2.8-3.4,3.6-1.5.8-3.1,1.2-4.8,1.2s-3.5-.4-5-1.3c-1.5-.9-2.6-2.1-3.3-3.7-.8-1.5-1.1-3.2-1.1-4.9ZM1749.3,793.3c0,2.4.6,4.2,1.9,5.6,1.3,1.4,2.9,2,4.8,2s3.6-.7,4.8-2.1c1.3-1.4,1.9-3.3,1.9-5.9s-.3-3-.8-4.2-1.3-2.1-2.4-2.8c-1-.7-2.2-1-3.5-1-1.8,0-3.4.6-4.8,1.9-1.3,1.3-2,3.4-2,6.3Z"/>
+            <path id="ArialMT-70" class="cls-117" d="M1768.5,808.3v-19.7h2.2v1.9c.5-.7,1.1-1.3,1.8-1.6.7-.4,1.4-.5,2.4-.5s2.3.3,3.2.9,1.6,1.5,2.1,2.7c.5,1.1.7,2.4.7,3.8s-.3,2.8-.8,3.9c-.5,1.2-1.3,2.1-2.3,2.7-1,.6-2,.9-3.1.9s-1.5-.2-2.2-.5c-.6-.3-1.2-.8-1.6-1.3v6.9h-2.4ZM1770.7,795.8c0,1.8.4,3.2,1.1,4.1.7.9,1.6,1.3,2.7,1.3s2-.5,2.8-1.4c.8-.9,1.1-2.3,1.1-4.2s-.4-3.2-1.1-4.1c-.7-.9-1.6-1.4-2.7-1.4s-1.9.5-2.7,1.4c-.8,1-1.2,2.4-1.2,4.2Z"/>
+            <path id="ArialMT-74" class="cls-117" d="M1789.1,800.7l.3,2.1c-.7.1-1.3.2-1.8.2-.9,0-1.6-.1-2-.4-.5-.3-.8-.6-1-1.1-.2-.5-.3-1.4-.3-2.9v-8.2h-1.8v-1.9h1.8v-3.5l2.4-1.4v5h2.4v1.9h-2.4v8.3c0,.7,0,1.1.1,1.3,0,.2.2.4.4.5.2.1.5.2.8.2s.6,0,1.1,0Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

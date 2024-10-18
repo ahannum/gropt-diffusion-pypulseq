@@ -1,12 +1,16 @@
 # gropt-diffusion-pypulseq
-Pypulseq Implementation of PNS-constrianed Diffusion Waveforms created with the MRI Gradient Optimization Toolbox
+Pypulseq Implementation of PNS-constrianed Diffusion Waveforms created with the MRI Gradient Optimization Toolbox (GrOpt)
 
 # Overview
-These are the tools used to generate simulations and waveforms associated with this ISMRM 2024 abstract submission: 
-
-Hannum AJ, Loecher M, Setsompop K, Ennis DB. Mitigation of Peripheral-Nerve Stimulation with Arbitrary Gradient Waveform Design for Diffusion-Weighted MRI.
+These are the tools used to generate simulations and waveforms and have been updated to streamline a script for developing .seq files to run on the system. 
 
 This repository will continue to be updated with code to generate and assess waveforms using the MRI Gradient Optimization Toolbox and convert to Pulseq files for capabilities of generating waveforms on a scanner. 
+
+# Works utilizing this repository
+This repository was originally utilized for the following abstract submission:
+ 
+Hannum AJ, Loecher M, Setsompop K, Ennis DB. Mitigation of Peripheral-Nerve Stimulation with Arbitrary Gradient Waveform Design for Diffusion-Weighted MRI.
+
 
 # Resources
 This toolbox builds upon and utilizes tools from the following open-source projects:
