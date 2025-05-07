@@ -99,27 +99,33 @@ def bipolar(params, tol):
     while flat <= 1000e-3 :
         
         if motion_comp == 1: 
+            T_180 = params['T_180'] * 1e-3
             
             t = []
             g = []
             gap = params['T_readout'] * 1e-3 - T_90/2 
             intervals = [T_90, gap, zeta, flat, zeta, zeta,flat,zeta, T_180, zeta, flat, zeta,zeta,flat,zeta]
+            T_180 = T_180+ gap
 
             time = [
-                np.linspace(0, T_90 + gap, int((T_90 + gap) / dt)),
-                np.linspace(T_90 + gap, T_90 + gap + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta, T_90 + gap + zeta + flat, int(flat / dt)),
-                np.linspace(T_90 + gap + zeta + flat, T_90 + gap + zeta + flat + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta, T_90 + gap + zeta + flat + zeta + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta, T_90 + gap + zeta + flat + zeta + zeta + flat, int(flat / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180, int(T_180 / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat, int(flat / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta, int(zeta / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta + flat, int(flat / dt)),
-                np.linspace(T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta + flat, T_90 + gap + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta + flat + zeta, int(zeta / dt)),
+                np.linspace(0, T_90, int(T_90 / dt)),  # 90 pulse
+
+                np.linspace(T_90, T_90 + zeta, int(zeta / dt)),  # zeta
+                np.linspace(T_90 + zeta, T_90 + zeta + flat, int(flat / dt)),  # flat
+                np.linspace(T_90 + zeta + flat, T_90 + zeta + flat + zeta, int(zeta / dt)),  # zeta
+
+                np.linspace(T_90 + zeta + flat + zeta, T_90 + zeta + flat + zeta + zeta, int(zeta / dt)),  # zeta
+                np.linspace(T_90 + zeta + flat + zeta + zeta, T_90 + zeta + flat + zeta + zeta + flat, int(flat / dt)),  # flat
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat, T_90 + zeta + flat + zeta + zeta + flat + zeta, int(zeta / dt)),  # zeta
+
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180, int(T_180 / dt)),  # 180 pulse
+
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta, int(zeta / dt)),  # zeta
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat, int(flat / dt)),  # flat
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta, int(zeta / dt)),  # zeta
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta, int(zeta / dt)),  # zeta
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta + flat, int(flat / dt)),  # flat
+                np.linspace(T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta + flat, T_90 + zeta + flat + zeta + zeta + flat + zeta + T_180 + zeta + flat + zeta + zeta + flat + zeta, int(zeta / dt)),  # zeta
             ]
 
 
@@ -309,7 +315,7 @@ def calc_trap(input_params,lim,pns_thresh):
     while pns.size > 0 and np.nanmax(pns)>pns_thresh:
         
         print('\tPNS above thresh,pns at',np.nanmax(pns) )
-        input_params['smax']-=5
+        input_params['smax']-=1
         if input_params['MMT'] == 0:
             # Traditional Waveforms 
             G,Time,echoT,b,zeta,flat = monopolar(input_params.copy(),lim)
