@@ -11,13 +11,33 @@ This repository will continue to be updated with code to generate and assess wav
 
 
 # Demo
-Use .yaml file to install appropriate packages. 
-
-To 
-
+Once the environment is installed (see installation section) you can follow these demos: 
+**Simulation**: Refer to [demo_ISMRM.ipynb] notebook  to generate PGSE and GrOpt waveforms based on system inputs. 
 
 
-# Works utilizing this repository
+# Installation
+**Prerequisite:** Make sure you have [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed.  
+If you're not using Conda, ensure Python and `pip` are installed, and consider converting the `.yaml` file to `requirements.txt`.
+This environment requires **Python 3.11.8**. You can check your Python version with:
+```bash
+python --version
+```
+If you're not using Conda, ensure Python 3.11.8 and `pip` are installed, and consider converting the `.yaml` file to a `requirements.txt`.
+
+To create the required Python environment from the provided `.yaml` file:
+
+### 1. Open Terminal or Anaconda Prompt
+
+### 2. Navigate to the folder containing `pulseq-gropt.yaml`
+```bash
+cd /path/to/your/yaml/file
+conda env create -f gropt-pulseq.yaml
+conda activate gropt-pulseq
+conda list
+```
+
+
+#  References
 This repository has been associated with the following abstracts:
 
 
